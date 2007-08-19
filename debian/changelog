@@ -1,3 +1,9 @@
+language-pack-sc (1:7.10+20070818) gutsy; urgency=low
+
+  * Automatic update to latest translation data.
+
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Sun, 19 Aug 2007 09:02:41 +0100
+
 language-pack-sc (1:7.10+20070814) gutsy; urgency=low
 
   * Automatic update to latest translation data.
