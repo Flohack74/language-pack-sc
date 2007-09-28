@@ -1,36 +1,6 @@
-language-pack-sc (1:7.10+20070914) gutsy; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Mon, 17 Sep 2007 11:52:23 +0100
-
-language-pack-sc (1:7.10+20070905) gutsy; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Mon, 10 Sep 2007 08:27:28 +0100
-
-language-pack-sc (1:7.10+20070820) gutsy; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Wed, 22 Aug 2007 08:47:22 +0100
-
-language-pack-sc (1:7.10+20070818) gutsy; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Sun, 19 Aug 2007 09:02:41 +0100
-
-language-pack-sc (1:7.10+20070814) gutsy; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Wed, 15 Aug 2007 08:45:46 +0100
-
-language-pack-sc (1:7.10+20070812) gutsy; urgency=low
+language-pack-sc (1:7.10+20070928) gutsy; urgency=low
 
   * Initial release.
 
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Mon, 13 Aug 2007 08:40:30 +0000
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Fri, 28 Sep 2007 08:09:32 +0000
 
