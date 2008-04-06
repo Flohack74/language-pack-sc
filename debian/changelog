@@ -1,3 +1,9 @@
+language-pack-sc (1:8.04+20080401) hardy; urgency=low
+
+  * Automatic update to latest translation data.
+
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Sun,  6 Apr 2008 02:54:15 +0100
+
 language-pack-sc (1:8.04+20080325) hardy; urgency=low
 
   * Initial release.
