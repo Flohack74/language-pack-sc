@@ -39,6 +39,7 @@ binary-indep:
 	done
 
 	[ ! -e data/extra.tar ] || tar -C $(PKG) -xf data/extra.tar
+	[ ! -e data/mozilla.tar.gz ] || tar -C $(PKG) -xzf data/mozilla.tar.gz
 	
 	dh_installdocs -i
 	dh_installchangelogs -i
