@@ -1,0 +1,23 @@
+Source: language-pack-sc
+Section: translations
+Priority: optional
+Maintainer: Language pack maintainers <language-packs@ubuntu.com>
+Build-Depends-Indep: gettext
+Build-Depends: debhelper (>= 4.1.0)
+Standards-Version: 3.7.3
+
+Package: language-pack-sc
+Architecture: all
+Pre-Depends: dpkg (>= 1.10.27ubuntu1)
+Depends: language-pack-sc-base
+Replaces: language-pack-sc-base, language-pack-sc-base (<< ${Source-Version}), language-pack-gnome-sc-base (<< ${Source-Version}), language-pack-kde-sc-base (<< ${Source-Version}), language-pack-sc (<< ${Source-Version}),  language-pack-gnome-sc (<< ${Source-Version}), language-pack-kde-sc (<< ${Source-Version})
+Description: translation updates for language Sardinian
+ Translation data updates for all supported packages for:
+ Sardinian
+ .
+ language-pack-sc-base provides the bulk of translation data
+ and is updated only seldom. This package provides frequent translation
+ updates.
+ .
+ Please note that you should install language-support-sc
+ to get full support for this language.
