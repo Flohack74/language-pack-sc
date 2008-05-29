@@ -1,6 +1,6 @@
-language-pack-sc (1:8.04+20080415) hardy; urgency=low
+language-pack-sc (1:8.04+20080527) hardy-proposed; urgency=low
 
   * Initial release.
 
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Thu, 17 Apr 2008 18:48:02 +0000
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Thu, 29 May 2008 09:48:35 +0000
 
