@@ -1,6 +1,6 @@
-language-pack-sc (1:8.10+20080906) intrepid; urgency=low
+language-pack-sc (1:8.10+20080920) intrepid; urgency=low
 
   * Initial release.
 
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Tue, 09 Sep 2008 20:19:41 +0000
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Wed, 01 Oct 2008 17:04:04 +0000
 
