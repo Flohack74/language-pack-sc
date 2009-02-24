@@ -1,3 +1,9 @@
+language-pack-sc (1:9.04+20090223) jaunty; urgency=low
+
+  * Automatic update to latest translation data.
+
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Tue, 24 Feb 2009 18:13:54 +0000
+
 language-pack-sc (1:9.04+20090213) jaunty; urgency=low
 
   * Initial release.
