@@ -1,6 +1,6 @@
-language-pack-sc (1:9.04+20090302) jaunty; urgency=low
+language-pack-sc (1:9.04+20090320) jaunty; urgency=low
 
   * Initial release.
 
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Wed, 04 Mar 2009 06:23:17 +0000
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Sun, 22 Mar 2009 12:16:12 +0000
 
