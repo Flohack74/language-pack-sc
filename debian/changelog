@@ -1,6 +1,6 @@
-language-pack-sc (1:9.04+20090413) jaunty; urgency=low
+language-pack-sc (1:9.10+20090725) karmic; urgency=low
 
   * Initial release.
 
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Thu, 16 Apr 2009 10:00:46 +0000
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Tue, 28 Jul 2009 05:11:46 +0000
 
