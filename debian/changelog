@@ -1,6 +1,6 @@
-language-pack-sc (1:9.10+20091022) karmic; urgency=low
+language-pack-sc (1:10.04+20091212) lucid; urgency=low
 
   * Initial release.
 
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Fri, 23 Oct 2009 12:50:22 +0000
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Mon, 14 Dec 2009 03:54:36 +0000
 
