@@ -1,3 +1,9 @@
+language-pack-sc (1:10.04+20100309.1) lucid; urgency=low
+
+  * Automatic update to latest translation data.
+
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Thu, 11 Mar 2010 04:48:37 +0000
+
 language-pack-sc (1:10.04+20100309) lucid; urgency=low
 
   * Automatic update to latest translation data.
