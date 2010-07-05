@@ -1,6 +1,6 @@
-language-pack-sc (1:10.04+20100421) lucid; urgency=low
+language-pack-sc (1:10.10+20100703) maverick; urgency=low
 
   * Initial release.
 
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Fri, 23 Apr 2010 07:07:15 +0000
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Mon, 05 Jul 2010 05:43:41 +0000
 
