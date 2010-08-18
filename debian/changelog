@@ -1,6 +1,6 @@
-language-pack-sc (1:10.10+20100727) maverick; urgency=low
+language-pack-sc (1:10.10+20100817) maverick; urgency=low
 
   * Initial release.
 
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Thu, 29 Jul 2010 04:48:05 +0000
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Wed, 18 Aug 2010 06:54:53 +0000
 
