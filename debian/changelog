@@ -1,3 +1,9 @@
+language-pack-sc (1:10.10+20100914) maverick; urgency=low
+
+  * Automatic update to latest translation data.
+
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Wed, 15 Sep 2010 15:23:59 +0100
+
 language-pack-sc (1:10.10+20100817) maverick; urgency=low
 
   * Initial release.
