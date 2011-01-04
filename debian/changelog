@@ -1,3 +1,9 @@
+language-pack-sc (1:11.04+20110103) natty; urgency=low
+
+  * Automatic update to latest translation data.
+
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Tue, 04 Jan 2011 15:24:03 +0000
+
 language-pack-sc (1:11.04+20101227) natty; urgency=low
 
   * Automatic update to latest translation data.

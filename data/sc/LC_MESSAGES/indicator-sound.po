@@ -1,0 +1,40 @@
+# Sardinian translation for indicator-sound
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the indicator-sound package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: indicator-sound\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2010-12-10 13:21+0000\n"
+"PO-Revision-Date: 2010-09-21 10:27+0000\n"
+"Last-Translator: bosshogg <cbuttu@tiscali.it>\n"
+"Language-Team: Sardinian <sc@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-01-04 01:37+0000\n"
+"X-Generator: Launchpad (build 12138)\n"
+
+#: ../data/indicator-sound.schemas.in.h:1
+msgid "On start up volume should not be muted."
+msgstr "a cumintzu su volùmene no si devet silentziare"
+
+#: ../data/indicator-sound.schemas.in.h:2
+msgid "Volume is not muted by default"
+msgstr "su volùmene no si silèntziat de forma predeterminada"
+
+#: ../src/dbus-menu-manager.c:123 ../src/dbus-menu-manager.c:194
+#: ../src/dbus-menu-manager.c:233
+msgid "Mute"
+msgstr "Mùdu"
+
+#: ../src/dbus-menu-manager.c:123 ../src/dbus-menu-manager.c:194
+#: ../src/dbus-menu-manager.c:233
+msgid "Unmute"
+msgstr "ativare s'àudio"
+
+#: ../src/dbus-menu-manager.c:216
+msgid "Sound Preferences..."
+msgstr "preferèntzias de sonu"
