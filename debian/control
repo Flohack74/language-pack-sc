@@ -9,7 +9,7 @@ Standards-Version: 3.9.1
 Package: language-pack-sc
 Architecture: all
 Pre-Depends: dpkg (>= 1.10.27ubuntu1)
-Depends: ${misc:Depends}, language-pack-sc-base (>= 1:11.04+20101202), language-pack-sc-base (>= 1:11.04+20101202)
+Depends: ${misc:Depends}, language-pack-sc-base (>= 1:11.04+20110117), language-pack-sc-base (>= 1:11.04+20110117)
 Replaces: language-pack-sc-base, language-pack-sc-base (<< ${binary:Version}), language-pack-gnome-sc-base (<< ${binary:Version}), language-pack-kde-sc-base (<< ${binary:Version}), language-pack-sc (<< ${binary:Version}),  language-pack-gnome-sc (<< ${binary:Version}), language-pack-kde-sc (<< ${binary:Version})
 Description: translation updates for language Sardinian
  Translation data updates for all supported packages for:
