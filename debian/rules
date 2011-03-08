@@ -6,6 +6,7 @@
 PKGNAME=$(shell grep "^Package: " debian/control | head -1 | cut -f 2 -d\ )
 PKG=$(shell pwd)/debian/$(PKGNAME)
 LOCALEDIR=$(PKG)/usr/share/locale-langpack
+FIREFOX_ADDON_DIR=$(PKG)/usr/lib/firefox-addons/extensions
 
 build: 
 	dh_testdir
@@ -25,7 +26,8 @@ binary-indep:
 	mkdir -p $(LOCALEDIR)
 	cd data; \
 	  find -type d -exec mkdir -p "$(LOCALEDIR)/{}" \; ; \
-	  find -type f -name "*.po" -exec sh -c "N='{}'; msgfmt -o $(LOCALEDIR)/\$${N%.po}.mo \$$N" \;
+	  find -type f -name "*.po" -exec sh -c "N='{}'; msgfmt -o $(LOCALEDIR)/\$${N%.po}.mo \$$N" \; ; \
+	  find -type f -name '*.xpi' -exec install -D -m 644 "{}" "$(FIREFOX_ADDON_DIR)/`basename {}`" \;
 	
 	cd debian/upgrade-notes; for f in `ls`; do \
 	    [ -e ../postinst ] || echo -e "#!/bin/sh -e\n\
