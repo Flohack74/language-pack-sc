@@ -1,6 +1,6 @@
-language-pack-sc (1:11.04+20110407) natty; urgency=low
+language-pack-sc (1:11.04+20110421) natty; urgency=low
 
   * Initial release.
 
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Sun, 10 Apr 2011 14:07:41 +0000
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Sat, 23 Apr 2011 13:40:33 +0000
 
