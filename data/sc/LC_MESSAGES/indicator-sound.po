@@ -1,0 +1,40 @@
+# Sardinian translation for indicator-sound
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the indicator-sound package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: indicator-sound\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-06-18 03:06+0000\n"
+"PO-Revision-Date: 2010-09-21 10:27+0000\n"
+"Last-Translator: bosshogg <cbuttu@tiscali.it>\n"
+"Language-Team: Sardinian <sc@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-06-20 22:35+0000\n"
+"X-Generator: Launchpad (build 13242)\n"
+
+#: ../src/indicator-sound.c:220
+#, c-format
+msgid "Volume (%'.0f%%)"
+msgstr ""
+
+#: ../src/mute-menu-item.c:111
+msgid "Mute"
+msgstr "Mùdu"
+
+#: ../src/mute-menu-item.c:111
+msgid "Unmute"
+msgstr "ativare s'àudio"
+
+#: ../src/sound-service-dbus.c:186
+msgid "Sound Settings..."
+msgstr ""
+
+#: ../src/playlists-menu-item.c:324 ../src/playlists-menu-item.c:465
+#: ../src/playlists-menu-item.c:527
+msgid "Choose Playlist"
+msgstr ""
