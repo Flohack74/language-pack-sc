@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
-"X-Launchpad-Export-Date: 2011-06-23 22:34+0000\n"
-"X-Generator: Launchpad (build 13265)\n"
+"X-Launchpad-Export-Date: 2011-06-27 22:57+0000\n"
+"X-Generator: Launchpad (build 13299)\n"
 
 #. TRANSLATORS: download size is 0
 #: ../DistUpgrade/utils.py:381 ../UpdateManager/Core/utils.py:381
