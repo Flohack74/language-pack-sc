@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
-"X-Launchpad-Export-Date: 2011-06-27 22:53+0000\n"
-"X-Generator: Launchpad (build 13299)\n"
+"X-Launchpad-Export-Date: 2011-06-30 22:53+0000\n"
+"X-Generator: Launchpad (build 13333)\n"
 
 #. TRANSLATORS: Alias for the Debian package section "admin"
 #: ../common/sections_trans.cc:12
