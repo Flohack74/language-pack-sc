@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: apport\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-06-22 08:49+0000\n"
+"POT-Creation-Date: 2011-08-17 16:26+0000\n"
 "PO-Revision-Date: 2010-08-01 10:24+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Sardinian <sc@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-06-30 23:29+0000\n"
-"X-Generator: Launchpad (build 13333)\n"
+"X-Launchpad-Export-Date: 2011-08-19 03:52+0000\n"
+"X-Generator: Launchpad (build 13697)\n"
 
 #: ../debian/tmp/usr/share/apport/apport-kde.py:133 ../kde/apport-kde.py:133
 msgid "&Details..."
@@ -925,8 +925,8 @@ msgstr ""
 msgid "No pending crash reports. Try --help for more information."
 msgstr ""
 
-#: ../data/general-hooks/ubuntu.py:29
-#: ../debian/tmp/usr/share/apport/general-hooks/ubuntu.py:29
+#: ../data/general-hooks/ubuntu.py:34
+#: ../debian/tmp/usr/share/apport/general-hooks/ubuntu.py:34
 msgid ""
 "Your system was initially configured with grub version 2, but you have "
 "removed it from your system in favor of grub 1 without configuring it.  To "
@@ -934,6 +934,13 @@ msgid ""
 "available, open a terminal and run:\n"
 "\n"
 "  sudo apt-get install grub-pc\n"
+msgstr ""
+
+#: ../data/general-hooks/ubuntu.py:87
+#: ../debian/tmp/usr/share/apport/general-hooks/ubuntu.py:87
+msgid ""
+"An Ubuntu package has a file conflict with a package that is not a genuine "
+"Ubuntu package"
 msgstr ""
 
 #: ../kde/apport-kde-mimelnk.desktop.in.h:1

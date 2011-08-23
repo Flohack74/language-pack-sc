@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pidgin\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-06-20 18:09+0000\n"
+"POT-Creation-Date: 2011-07-29 16:34+0000\n"
 "PO-Revision-Date: 2010-05-23 08:23+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Sardinian <sc@li.org>\n"
@@ -15,22 +15,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
-"X-Launchpad-Export-Date: 2011-06-30 23:49+0000\n"
-"X-Generator: Launchpad (build 13333)\n"
+"X-Launchpad-Export-Date: 2011-08-19 04:44+0000\n"
+"X-Generator: Launchpad (build 13697)\n"
 
 #. Translators may want to transliterate the name.
 #. It is not to be translated.
-#: ../finch/finch.c:66 ../finch/finch.c:319 ../finch/finch.c:348
-#: ../finch/finch.c:437
+#: ../finch/finch.c:66 ../finch/finch.c:336 ../finch/finch.c:365
+#: ../finch/finch.c:454
 msgid "Finch"
 msgstr ""
 
-#: ../finch/finch.c:230
+#: ../finch/finch.c:247
 #, c-format
 msgid "%s. Try `%s -h' for more information.\n"
 msgstr ""
 
-#: ../finch/finch.c:232
+#: ../finch/finch.c:249
 #, c-format
 msgid ""
 "%s\n"
@@ -43,7 +43,7 @@ msgid ""
 "  -v, --version       display the current version and exit\n"
 msgstr ""
 
-#: ../finch/finch.c:346 ../pidgin/gtkmain.c:770
+#: ../finch/finch.c:363 ../pidgin/gtkmain.c:772
 #, c-format
 msgid ""
 "%s encountered errors migrating your settings from %s to %s. Please "
@@ -111,7 +111,7 @@ msgid "(You probably forgot to 'make install'.)"
 msgstr ""
 
 #: ../finch/gntaccount.c:570 ../finch/gntconn.c:138
-#: ../pidgin/gtkaccount.c:1576 ../pidgin/gtkblist.c:5129
+#: ../pidgin/gtkaccount.c:1576 ../pidgin/gtkblist.c:5127
 msgid "Modify Account"
 msgstr ""
 
@@ -153,7 +153,7 @@ msgstr ""
 #: ../finch/gntstatus.c:487 ../finch/gntstatus.c:612
 #: ../finch/plugins/gnthistory.c:182 ../libpurple/account.c:1222
 #: ../libpurple/account.c:1585 ../libpurple/account.c:1620
-#: ../libpurple/conversation.c:1290 ../libpurple/conversation.c:2115
+#: ../libpurple/conversation.c:1311 ../libpurple/conversation.c:2140
 #: ../libpurple/plugins/buddynote.c:51 ../libpurple/protocols/gg/gg.c:477
 #: ../libpurple/protocols/gg/gg.c:619 ../libpurple/protocols/gg/gg.c:748
 #: ../libpurple/protocols/gg/gg.c:812 ../libpurple/protocols/gg/gg.c:877
@@ -208,8 +208,8 @@ msgstr ""
 #: ../libpurple/protocols/yahoo/yahoo_aliases.c:589
 #: ../libpurple/protocols/yahoo/yahoo_aliases.c:600
 #: ../pidgin/gtkaccount.c:1945 ../pidgin/gtkaccount.c:2480
-#: ../pidgin/gtkblist.c:706 ../pidgin/gtkblist.c:3585
-#: ../pidgin/gtkblist.c:7335 ../pidgin/gtkcertmgr.c:195
+#: ../pidgin/gtkblist.c:706 ../pidgin/gtkblist.c:3583
+#: ../pidgin/gtkblist.c:7333 ../pidgin/gtkcertmgr.c:195
 #: ../pidgin/gtkdialogs.c:833 ../pidgin/gtkdialogs.c:972
 #: ../pidgin/gtkdialogs.c:1064 ../pidgin/gtkdialogs.c:1084
 #: ../pidgin/gtkdialogs.c:1108 ../pidgin/gtkdialogs.c:1130
@@ -275,7 +275,7 @@ msgstr ""
 #: ../libpurple/protocols/sametime/sametime.c:5564
 #: ../libpurple/protocols/silc/chat.c:621
 #: ../libpurple/protocols/silc10/chat.c:599 ../pidgin/gtkaccount.c:2479
-#: ../pidgin/gtkblist.c:7334 ../pidgin/gtkconv.c:1696
+#: ../pidgin/gtkblist.c:7332 ../pidgin/gtkconv.c:1696
 #: ../pidgin/gtkrequest.c:305
 msgid "Add"
 msgstr ""
@@ -397,7 +397,7 @@ msgstr ""
 #: ../finch/gntblist.c:2743 ../finch/gntblist.c:2799 ../finch/gntblist.c:2874
 #: ../finch/gntblist.c:2934 ../finch/gntnotify.c:192 ../finch/gntstatus.c:578
 #: ../libpurple/plugins/idle.c:149 ../libpurple/plugins/idle.c:186
-#: ../pidgin/gtkblist.c:3781 ../pidgin/gtknotify.c:712
+#: ../pidgin/gtkblist.c:3779 ../pidgin/gtknotify.c:712
 #: ../pidgin/gtkpounce.c:1291 ../pidgin/plugins/gevolution/gevolution.c:456
 msgid "Account"
 msgstr ""
@@ -411,7 +411,7 @@ msgstr ""
 #: ../libpurple/protocols/silc10/buddy.c:1036
 #: ../libpurple/protocols/silc10/buddy.c:1083
 #: ../libpurple/protocols/silc10/buddy.c:1183
-#: ../libpurple/protocols/yahoo/libymsg.c:4156 ../pidgin/gtkblist.c:7097
+#: ../libpurple/protocols/yahoo/libymsg.c:4156 ../pidgin/gtkblist.c:7095
 #: ../pidgin/plugins/gevolution/add_buddy_dialog.c:451
 msgid "Add Buddy"
 msgstr ""
@@ -460,7 +460,7 @@ msgstr ""
 msgid "Auto-join"
 msgstr ""
 
-#: ../finch/gntblist.c:804 ../finch/gntblist.c:1261 ../pidgin/gtkblist.c:7275
+#: ../finch/gntblist.c:804 ../finch/gntblist.c:1261 ../pidgin/gtkblist.c:7273
 msgid "Add Chat"
 msgstr ""
 
@@ -478,7 +478,7 @@ msgstr ""
 
 #: ../finch/gntblist.c:852 ../finch/gntblist.c:1263
 #: ../libpurple/protocols/sametime/sametime.c:5474
-#: ../libpurple/protocols/sametime/sametime.c:5562 ../pidgin/gtkblist.c:7331
+#: ../libpurple/protocols/sametime/sametime.c:5562 ../pidgin/gtkblist.c:7329
 msgid "Add Group"
 msgstr ""
 
@@ -578,7 +578,7 @@ msgstr ""
 
 #. Buddy List
 #: ../finch/gntblist.c:1711 ../finch/gntblist.c:3126 ../finch/gntprefs.c:259
-#: ../finch/gntui.c:100 ../pidgin/gtkblist.c:5770
+#: ../finch/gntui.c:100 ../pidgin/gtkblist.c:5768
 #: ../pidgin/plugins/win32/winprefs/winprefs.c:303
 msgid "Buddy List"
 msgstr ""
@@ -619,7 +619,7 @@ msgstr ""
 #: ../libpurple/protocols/silc10/ops.c:1179
 #: ../libpurple/protocols/silc10/ops.c:1328
 #: ../libpurple/protocols/yahoo/yahoo_aliases.c:546
-#: ../libpurple/protocols/yahoo/yahoo_profile.c:1065 ../pidgin/gtkblist.c:3805
+#: ../libpurple/protocols/yahoo/yahoo_profile.c:1065 ../pidgin/gtkblist.c:3803
 msgid "Nickname"
 msgstr ""
 
@@ -634,8 +634,8 @@ msgstr ""
 #: ../libpurple/protocols/novell/novell.c:2853
 #: ../libpurple/protocols/oscar/userinfo.c:508
 #: ../libpurple/protocols/yahoo/libymsg.c:3875
-#: ../libpurple/protocols/yahoo/yahoo_profile.c:709 ../pidgin/gtkblist.c:3833
-#: ../pidgin/gtkblist.c:4288 ../pidgin/gtkprefs.c:2671
+#: ../libpurple/protocols/yahoo/yahoo_profile.c:709 ../pidgin/gtkblist.c:3831
+#: ../pidgin/gtkblist.c:4286 ../pidgin/gtkprefs.c:2671
 msgid "Idle"
 msgstr ""
 
@@ -712,7 +712,7 @@ msgstr ""
 #: ../libpurple/protocols/yahoo/libymsg.c:4347
 #: ../libpurple/protocols/yahoo/libymsg.c:4358
 #: ../libpurple/protocols/yahoo/yahoo_aliases.c:588
-#: ../libpurple/protocols/yahoo/yahoo_aliases.c:599 ../pidgin/gtkblist.c:3584
+#: ../libpurple/protocols/yahoo/yahoo_aliases.c:599 ../pidgin/gtkblist.c:3582
 #: ../pidgin/gtkcertmgr.c:193 ../pidgin/gtkdialogs.c:832
 #: ../pidgin/gtkdialogs.c:971 ../pidgin/gtkdialogs.c:1063
 #: ../pidgin/gtkrequest.c:300 ../pidgin/gtkutils.c:1621
@@ -796,7 +796,7 @@ msgstr ""
 msgid "By Status"
 msgstr ""
 
-#: ../finch/gntblist.c:3059 ../pidgin/gtkblist.c:4820
+#: ../finch/gntblist.c:3059 ../pidgin/gtkblist.c:4818
 msgid "Alphabetically"
 msgstr ""
 
@@ -804,7 +804,7 @@ msgstr ""
 msgid "By Log Size"
 msgstr ""
 
-#: ../finch/gntblist.c:3075 ../libpurple/conversation.c:2102
+#: ../finch/gntblist.c:3075 ../libpurple/conversation.c:2127
 #: ../pidgin/gtknotify.c:1597
 msgid "Buddy"
 msgstr ""
@@ -922,7 +922,7 @@ msgstr ""
 #: ../libpurple/protocols/mxit/splashscreen.c:211
 #: ../libpurple/protocols/silc/util.c:386
 #: ../libpurple/protocols/silc10/util.c:377 ../pidgin/gtkaccount.c:2453
-#: ../pidgin/gtkblist.c:5878 ../pidgin/gtkrequest.c:303
+#: ../pidgin/gtkblist.c:5876 ../pidgin/gtkrequest.c:303
 msgid "Close"
 msgstr ""
 
@@ -999,7 +999,7 @@ msgstr ""
 msgid "You have left this chat."
 msgstr ""
 
-#: ../finch/gntconv.c:382 ../pidgin/gtkconv.c:7574
+#: ../finch/gntconv.c:382 ../pidgin/gtkconv.c:7600
 msgid ""
 "The account has disconnected and you are no longer in this chat. You will be "
 "automatically rejoined in the chat when the account reconnects."
@@ -1087,27 +1087,27 @@ msgstr ""
 msgid "%s is not a valid color. See '/help msgcolor' for valid colors."
 msgstr ""
 
-#: ../finch/gntconv.c:1415 ../pidgin/gtkconv.c:8051
+#: ../finch/gntconv.c:1415 ../pidgin/gtkconv.c:8077
 msgid ""
 "say &lt;message&gt;:  Send a message normally as if you weren't using a "
 "command."
 msgstr ""
 
-#: ../finch/gntconv.c:1418 ../pidgin/gtkconv.c:8054
+#: ../finch/gntconv.c:1418 ../pidgin/gtkconv.c:8080
 msgid "me &lt;action&gt;:  Send an IRC style action to a buddy or chat."
 msgstr ""
 
-#: ../finch/gntconv.c:1421 ../pidgin/gtkconv.c:8057
+#: ../finch/gntconv.c:1421 ../pidgin/gtkconv.c:8083
 msgid ""
 "debug &lt;option&gt;:  Send various debug information to the current "
 "conversation."
 msgstr ""
 
-#: ../finch/gntconv.c:1424 ../pidgin/gtkconv.c:8060
+#: ../finch/gntconv.c:1424 ../pidgin/gtkconv.c:8086
 msgid "clear: Clears the conversation scrollback."
 msgstr ""
 
-#: ../finch/gntconv.c:1427 ../pidgin/gtkconv.c:8066
+#: ../finch/gntconv.c:1427 ../pidgin/gtkconv.c:8092
 msgid "help &lt;command&gt;:  Help on a specific command."
 msgstr ""
 
@@ -1150,7 +1150,7 @@ msgid ""
 msgstr ""
 
 #: ../finch/gntdebug.c:275 ../pidgin/gtkconv.c:998 ../pidgin/gtkdebug.c:230
-#: ../pidgin/gtkft.c:519 ../pidgin/gtkutils.c:3221
+#: ../pidgin/gtkft.c:519 ../pidgin/gtkutils.c:3338
 msgid "Unable to open file."
 msgstr ""
 
@@ -1227,8 +1227,8 @@ msgstr ""
 #: ../libpurple/protocols/oscar/userinfo.c:303
 #: ../libpurple/protocols/sametime/sametime.c:3337
 #: ../libpurple/protocols/sametime/sametime.c:4229
-#: ../libpurple/protocols/yahoo/libymsg.c:4031 ../pidgin/gtkblist.c:3878
-#: ../pidgin/gtkblist.c:3892 ../pidgin/gtkblist.c:3894
+#: ../libpurple/protocols/yahoo/libymsg.c:4031 ../pidgin/gtkblist.c:3876
+#: ../pidgin/gtkblist.c:3890 ../pidgin/gtkblist.c:3892
 #: ../pidgin/gtksavedstatuses.c:970 ../pidgin/gtksavedstatuses.c:1120
 msgid "Status"
 msgstr ""
@@ -1439,7 +1439,7 @@ msgstr ""
 msgid "IM"
 msgstr ""
 
-#: ../finch/gntnotify.c:464 ../libpurple/conversation.c:2114
+#: ../finch/gntnotify.c:464 ../libpurple/conversation.c:2139
 #: ../libpurple/protocols/sametime/sametime.c:3547
 msgid "Invite"
 msgstr ""
@@ -1782,11 +1782,11 @@ msgstr ""
 msgid "Not implemented yet."
 msgstr ""
 
-#: ../finch/gntrequest.c:766 ../pidgin/gtkrequest.c:1594
+#: ../finch/gntrequest.c:766 ../pidgin/gtkrequest.c:1584
 msgid "Save File..."
 msgstr ""
 
-#: ../finch/gntrequest.c:766 ../pidgin/gtkrequest.c:1595
+#: ../finch/gntrequest.c:766 ../pidgin/gtkrequest.c:1585
 msgid "Open File..."
 msgstr ""
 
@@ -1803,7 +1803,7 @@ msgid "Get"
 msgstr ""
 
 #. Create the window.
-#: ../finch/gntroomlist.c:287 ../finch/gntui.c:106 ../pidgin/gtkblist.c:7281
+#: ../finch/gntroomlist.c:287 ../finch/gntui.c:106 ../pidgin/gtkblist.c:7279
 #: ../pidgin/gtkroomlist.c:531
 msgid "Room List"
 msgstr ""
@@ -1998,7 +1998,7 @@ msgstr ""
 #. not independent
 #. Attributes - each status can have a message.
 #: ../finch/gntstatus.c:185 ../finch/gntstatus.c:566 ../finch/gntstatus.c:578
-#: ../libpurple/conversation.c:2107
+#: ../libpurple/conversation.c:2132
 #: ../libpurple/protocols/bonjour/bonjour.c:287
 #: ../libpurple/protocols/bonjour/bonjour.c:294
 #: ../libpurple/protocols/bonjour/bonjour.c:376
@@ -2280,13 +2280,13 @@ msgstr ""
 #: ../libpurple/protocols/oscar/oscar.c:4713
 #: ../libpurple/protocols/oscar/userinfo.c:279
 #: ../libpurple/protocols/yahoo/libymsg.c:3877 ../libpurple/status.c:162
-#: ../pidgin/gtkblist.c:3878 ../pidgin/gtkblist.c:4265
+#: ../pidgin/gtkblist.c:3876 ../pidgin/gtkblist.c:4263
 #: ../pidgin/gtkdocklet.c:566 ../pidgin/gtkstatusbox.c:1100
 #: ../pidgin/plugins/themeedit-icon.c:67
 msgid "Offline"
 msgstr ""
 
-#: ../finch/plugins/grouping.c:115 ../pidgin/gtkblist.c:3914
+#: ../finch/plugins/grouping.c:115 ../pidgin/gtkblist.c:3912
 msgid "Online Buddies"
 msgstr ""
 
@@ -2432,7 +2432,7 @@ msgstr ""
 #: ../libpurple/blist.c:1847 ../libpurple/blist.c:1849
 #: ../libpurple/protocols/jabber/roster.c:117
 #: ../libpurple/protocols/jabber/roster.c:256
-#: ../libpurple/protocols/myspace/myspace.c:3484 ../pidgin/gtkblist.c:6959
+#: ../libpurple/protocols/myspace/myspace.c:3484 ../pidgin/gtkblist.c:6957
 #: ../pidgin/plugins/gevolution/gevo-util.c:73
 #: ../pidgin/plugins/gevolution/gevolution.c:106
 msgid "Buddies"
@@ -2609,68 +2609,68 @@ msgstr ""
 msgid "Unknown error"
 msgstr ""
 
-#: ../libpurple/conversation.c:197
+#: ../libpurple/conversation.c:214
 msgid "Unable to send message: The message is too large."
 msgstr ""
 
-#: ../libpurple/conversation.c:200 ../libpurple/conversation.c:213
+#: ../libpurple/conversation.c:217 ../libpurple/conversation.c:230
 #, c-format
 msgid "Unable to send message to %s."
 msgstr ""
 
-#: ../libpurple/conversation.c:201
+#: ../libpurple/conversation.c:218
 msgid "The message is too large."
 msgstr ""
 
-#: ../libpurple/conversation.c:210 ../libpurple/protocols/bonjour/jabber.c:305
+#: ../libpurple/conversation.c:227 ../libpurple/protocols/bonjour/jabber.c:305
 #: ../libpurple/protocols/bonjour/jabber.c:351
 msgid "Unable to send message."
 msgstr ""
 
-#: ../libpurple/conversation.c:1286
+#: ../libpurple/conversation.c:1307
 msgid "Send Message"
 msgstr ""
 
-#: ../libpurple/conversation.c:1289
+#: ../libpurple/conversation.c:1310
 msgid "_Send Message"
 msgstr ""
 
-#: ../libpurple/conversation.c:1691
+#: ../libpurple/conversation.c:1712
 #, c-format
 msgid "%s entered the room."
 msgstr ""
 
-#: ../libpurple/conversation.c:1694
+#: ../libpurple/conversation.c:1715
 #, c-format
 msgid "%s [<I>%s</I>] entered the room."
 msgstr ""
 
-#: ../libpurple/conversation.c:1804
+#: ../libpurple/conversation.c:1826
 #, c-format
 msgid "You are now known as %s"
 msgstr ""
 
-#: ../libpurple/conversation.c:1824
+#: ../libpurple/conversation.c:1846
 #, c-format
 msgid "%s is now known as %s"
 msgstr ""
 
-#: ../libpurple/conversation.c:1899
+#: ../libpurple/conversation.c:1921
 #, c-format
 msgid "%s left the room."
 msgstr ""
 
-#: ../libpurple/conversation.c:1902
+#: ../libpurple/conversation.c:1924
 #, c-format
 msgid "%s left the room (%s)."
 msgstr ""
 
-#: ../libpurple/conversation.c:2099 ../libpurple/conversation.c:2110
+#: ../libpurple/conversation.c:2124 ../libpurple/conversation.c:2135
 msgid "Invite to chat"
 msgstr ""
 
 #. Put our happy label in it.
-#: ../libpurple/conversation.c:2111 ../pidgin/gtkconv.c:901
+#: ../libpurple/conversation.c:2136 ../pidgin/gtkconv.c:901
 msgid ""
 "Please enter the name of the user you wish to invite, along with an optional "
 "invite message."
@@ -5556,7 +5556,7 @@ msgstr ""
 
 #: ../libpurple/protocols/jabber/buddy.c:368
 #: ../libpurple/protocols/jabber/buddy.c:1167
-#: ../libpurple/protocols/jabber/chat.c:911 ../pidgin/gtkblist.c:3890
+#: ../libpurple/protocols/jabber/chat.c:911 ../pidgin/gtkblist.c:3888
 #: ../pidgin/gtkplugin.c:590 ../pidgin/plugins/disco/gtkdisco.c:569
 msgid "Description"
 msgstr ""
@@ -6093,8 +6093,8 @@ msgstr ""
 
 #: ../libpurple/protocols/jabber/jabber.c:2344
 #: ../libpurple/protocols/mxit/profile.c:210
-#: ../libpurple/protocols/mxit/roster.c:262 ../pidgin/gtkblist.c:3545
-#: ../pidgin/gtkblist.c:3547 ../pidgin/plugins/gevolution/eds-utils.c:73
+#: ../libpurple/protocols/mxit/roster.c:262 ../pidgin/gtkblist.c:3543
+#: ../pidgin/gtkblist.c:3545 ../pidgin/plugins/gevolution/eds-utils.c:73
 #: ../pidgin/plugins/gevolution/eds-utils.c:86
 msgid "None"
 msgstr ""
@@ -9818,7 +9818,7 @@ msgstr ""
 msgid "Watching a movie"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/family_locate.c:419 ../pidgin/gtkconv.c:6774
+#: ../libpurple/protocols/oscar/family_locate.c:419 ../pidgin/gtkconv.c:6818
 #: ../pidgin/gtkstatusbox.c:714
 msgid "Typing"
 msgstr ""
@@ -11179,7 +11179,7 @@ msgstr ""
 msgid "Send TEST Announcement"
 msgstr ""
 
-#: ../libpurple/protocols/sametime/sametime.c:3660 ../pidgin/gtkconv.c:4657
+#: ../libpurple/protocols/sametime/sametime.c:3660 ../pidgin/gtkconv.c:4685
 msgid "Topic:"
 msgstr ""
 
@@ -14661,11 +14661,11 @@ msgid "_Expand"
 msgstr ""
 
 #: ../pidgin/gtkblist.c:2073 ../pidgin/gtkblist.c:2085
-#: ../pidgin/gtkblist.c:6005 ../pidgin/gtkblist.c:6018
+#: ../pidgin/gtkblist.c:6003 ../pidgin/gtkblist.c:6016
 msgid "/Tools/Mute Sounds"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:2531 ../pidgin/gtkconv.c:5166
+#: ../pidgin/gtkblist.c:2531 ../pidgin/gtkconv.c:5194
 #: ../pidgin/gtkpounce.c:448
 msgid ""
 "You are not currently signed on with an account that can add that buddy."
@@ -14674,275 +14674,275 @@ msgstr ""
 #. I don't believe this can happen currently, I think
 #. * everything that calls this function checks for one of the
 #. * above node types first.
-#: ../pidgin/gtkblist.c:2902
+#: ../pidgin/gtkblist.c:2900
 msgid "Unknown node type"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3543
+#: ../pidgin/gtkblist.c:3541
 msgid "Please select your mood from the list"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3577
+#: ../pidgin/gtkblist.c:3575
 msgid "Message (optional)"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3582
+#: ../pidgin/gtkblist.c:3580
 msgid "Edit User Mood"
 msgstr ""
 
 #. NOTE: Do not set any accelerator to Control+O. It is mapped by
 #. gtk_blist_key_press_cb to "Get User Info" on the selected buddy.
 #. Buddies menu
-#: ../pidgin/gtkblist.c:3607
+#: ../pidgin/gtkblist.c:3605
 msgid "/_Buddies"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3608
+#: ../pidgin/gtkblist.c:3606
 msgid "/Buddies/New Instant _Message..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3609
+#: ../pidgin/gtkblist.c:3607
 msgid "/Buddies/Join a _Chat..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3610
+#: ../pidgin/gtkblist.c:3608
 msgid "/Buddies/Get User _Info..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3611
+#: ../pidgin/gtkblist.c:3609
 msgid "/Buddies/View User _Log..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3613
+#: ../pidgin/gtkblist.c:3611
 msgid "/Buddies/Sh_ow"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3614
+#: ../pidgin/gtkblist.c:3612
 msgid "/Buddies/Show/_Offline Buddies"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3615
+#: ../pidgin/gtkblist.c:3613
 msgid "/Buddies/Show/_Empty Groups"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3616
+#: ../pidgin/gtkblist.c:3614
 msgid "/Buddies/Show/Buddy _Details"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3617
+#: ../pidgin/gtkblist.c:3615
 msgid "/Buddies/Show/Idle _Times"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3618
+#: ../pidgin/gtkblist.c:3616
 msgid "/Buddies/Show/_Protocol Icons"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3619
+#: ../pidgin/gtkblist.c:3617
 msgid "/Buddies/_Sort Buddies"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3621
+#: ../pidgin/gtkblist.c:3619
 msgid "/Buddies/_Add Buddy..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3622
+#: ../pidgin/gtkblist.c:3620
 msgid "/Buddies/Add C_hat..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3623
+#: ../pidgin/gtkblist.c:3621
 msgid "/Buddies/Add _Group..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3625
+#: ../pidgin/gtkblist.c:3623
 msgid "/Buddies/_Quit"
 msgstr ""
 
 #. Accounts menu
-#: ../pidgin/gtkblist.c:3628
+#: ../pidgin/gtkblist.c:3626
 msgid "/_Accounts"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3629 ../pidgin/gtkblist.c:8022
+#: ../pidgin/gtkblist.c:3627 ../pidgin/gtkblist.c:8020
 msgid "/Accounts/Manage Accounts"
 msgstr ""
 
 #. Tools
-#: ../pidgin/gtkblist.c:3632
+#: ../pidgin/gtkblist.c:3630
 msgid "/_Tools"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3633
+#: ../pidgin/gtkblist.c:3631
 msgid "/Tools/Buddy _Pounces"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3634
+#: ../pidgin/gtkblist.c:3632
 msgid "/Tools/_Certificates"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3635
+#: ../pidgin/gtkblist.c:3633
 msgid "/Tools/Custom Smile_ys"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3636
+#: ../pidgin/gtkblist.c:3634
 msgid "/Tools/Plu_gins"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3637
+#: ../pidgin/gtkblist.c:3635
 msgid "/Tools/Pr_eferences"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3638
+#: ../pidgin/gtkblist.c:3636
 msgid "/Tools/Pr_ivacy"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3639
+#: ../pidgin/gtkblist.c:3637
 msgid "/Tools/Set _Mood"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3641
+#: ../pidgin/gtkblist.c:3639
 msgid "/Tools/_File Transfers"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3642
+#: ../pidgin/gtkblist.c:3640
 msgid "/Tools/R_oom List"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3643
+#: ../pidgin/gtkblist.c:3641
 msgid "/Tools/System _Log"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3645
+#: ../pidgin/gtkblist.c:3643
 msgid "/Tools/Mute _Sounds"
 msgstr ""
 
 #. Help
-#: ../pidgin/gtkblist.c:3647
+#: ../pidgin/gtkblist.c:3645
 msgid "/_Help"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3648
+#: ../pidgin/gtkblist.c:3646
 msgid "/Help/Online _Help"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3650
+#: ../pidgin/gtkblist.c:3648
 msgid "/Help/_Build Information"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3651
+#: ../pidgin/gtkblist.c:3649
 msgid "/Help/_Debug Window"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3652
+#: ../pidgin/gtkblist.c:3650
 msgid "/Help/De_veloper Information"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3653
+#: ../pidgin/gtkblist.c:3651
 msgid "/Help/_Translator Information"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3655
+#: ../pidgin/gtkblist.c:3653
 msgid "/Help/_About"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3687
+#: ../pidgin/gtkblist.c:3685
 #, c-format
 msgid "<b>Account:</b> %s"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3706
+#: ../pidgin/gtkblist.c:3704
 #, c-format
 msgid ""
 "\n"
 "<b>Occupants:</b> %d"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3712
+#: ../pidgin/gtkblist.c:3710
 #, c-format
 msgid ""
 "\n"
 "<b>Topic:</b> %s"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3712
+#: ../pidgin/gtkblist.c:3710
 msgid "(no topic set)"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3793
+#: ../pidgin/gtkblist.c:3791
 msgid "Buddy Alias"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3822
+#: ../pidgin/gtkblist.c:3820
 msgid "Logged In"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3868
+#: ../pidgin/gtkblist.c:3866
 msgid "Last Seen"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3890
+#: ../pidgin/gtkblist.c:3888
 msgid "Spooky"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3892
+#: ../pidgin/gtkblist.c:3890
 msgid "Awesome"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3894
+#: ../pidgin/gtkblist.c:3892
 msgid "Rockin'"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:3924
+#: ../pidgin/gtkblist.c:3922
 msgid "Total Buddies"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4281
+#: ../pidgin/gtkblist.c:4279
 #, c-format
 msgid "Idle %dd %dh %02dm"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4283
+#: ../pidgin/gtkblist.c:4281
 #, c-format
 msgid "Idle %dh %02dm"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4285
+#: ../pidgin/gtkblist.c:4283
 #, c-format
 msgid "Idle %dm"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4474
+#: ../pidgin/gtkblist.c:4472
 msgid "/Buddies/New Instant Message..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4475 ../pidgin/gtkblist.c:4508
+#: ../pidgin/gtkblist.c:4473 ../pidgin/gtkblist.c:4506
 msgid "/Buddies/Join a Chat..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4476
+#: ../pidgin/gtkblist.c:4474
 msgid "/Buddies/Get User Info..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4477
+#: ../pidgin/gtkblist.c:4475
 msgid "/Buddies/Add Buddy..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4478 ../pidgin/gtkblist.c:4511
+#: ../pidgin/gtkblist.c:4476 ../pidgin/gtkblist.c:4509
 msgid "/Buddies/Add Chat..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4479
+#: ../pidgin/gtkblist.c:4477
 msgid "/Buddies/Add Group..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4514
+#: ../pidgin/gtkblist.c:4512
 msgid "/Tools/Privacy"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4517
+#: ../pidgin/gtkblist.c:4515
 msgid "/Tools/Room List"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4649 ../pidgin/gtkdocklet.c:158
+#: ../pidgin/gtkblist.c:4647 ../pidgin/gtkdocklet.c:158
 #: ../pidgin/gtkdocklet.c:163
 #, c-format
 msgid "%d unread message from %s\n"
@@ -14950,45 +14950,45 @@ msgid_plural "%d unread messages from %s\n"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../pidgin/gtkblist.c:4819
+#: ../pidgin/gtkblist.c:4817
 msgid "Manually"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4821
+#: ../pidgin/gtkblist.c:4819
 msgid "By status"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:4822
+#: ../pidgin/gtkblist.c:4820
 msgid "By recent log activity"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:5120
+#: ../pidgin/gtkblist.c:5118
 #, c-format
 msgid "%s disconnected"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:5122
+#: ../pidgin/gtkblist.c:5120
 #, c-format
 msgid "%s disabled"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:5126
+#: ../pidgin/gtkblist.c:5124
 msgid "Reconnect"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:5126 ../pidgin/gtkblist.c:5228
+#: ../pidgin/gtkblist.c:5124 ../pidgin/gtkblist.c:5226
 msgid "Re-enable"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:5139
+#: ../pidgin/gtkblist.c:5137
 msgid "SSL FAQs"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:5226
+#: ../pidgin/gtkblist.c:5224
 msgid "Welcome back!"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:5262
+#: ../pidgin/gtkblist.c:5260
 #, c-format
 msgid "%d account was disabled because you signed on from another location:"
 msgid_plural ""
@@ -14996,28 +14996,28 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../pidgin/gtkblist.c:5536
+#: ../pidgin/gtkblist.c:5534
 msgid "<b>Username:</b>"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:5543
+#: ../pidgin/gtkblist.c:5541
 msgid "<b>Password:</b>"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:5554
+#: ../pidgin/gtkblist.c:5552
 msgid "_Login"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:5798
+#: ../pidgin/gtkblist.c:5796
 msgid "/Help"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:5810
+#: ../pidgin/gtkblist.c:5808
 msgid "/Accounts"
 msgstr ""
 
 #. Translators: Please maintain the use of -> and <- to refer to menu heirarchy
-#: ../pidgin/gtkblist.c:5824
+#: ../pidgin/gtkblist.c:5822
 #, c-format
 msgid ""
 "<span weight='bold' size='larger'>Welcome to %s!</span>\n"
@@ -15031,116 +15031,116 @@ msgstr ""
 #. set the Show Offline Buddies option. must be done
 #. * after the treeview or faceprint gets mad. -Robot101
 #. 
-#: ../pidgin/gtkblist.c:5999
+#: ../pidgin/gtkblist.c:5997
 msgid "/Buddies/Show/Offline Buddies"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:6002
+#: ../pidgin/gtkblist.c:6000
 msgid "/Buddies/Show/Empty Groups"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:6008
+#: ../pidgin/gtkblist.c:6006
 msgid "/Buddies/Show/Buddy Details"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:6011
+#: ../pidgin/gtkblist.c:6009
 msgid "/Buddies/Show/Idle Times"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:6014
+#: ../pidgin/gtkblist.c:6012
 msgid "/Buddies/Show/Protocol Icons"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:7098
+#: ../pidgin/gtkblist.c:7096
 msgid "Add a buddy.\n"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:7113
+#: ../pidgin/gtkblist.c:7111
 msgid "Buddy's _username:"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:7130
+#: ../pidgin/gtkblist.c:7128
 msgid "(Optional) A_lias:"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:7141
+#: ../pidgin/gtkblist.c:7139
 msgid "(Optional) _Invite message:"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:7146
+#: ../pidgin/gtkblist.c:7144
 msgid "Add buddy to _group:"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:7251
+#: ../pidgin/gtkblist.c:7249
 msgid "This protocol does not support chat rooms."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:7267
+#: ../pidgin/gtkblist.c:7265
 msgid ""
 "You are not currently signed on with any protocols that have the ability to "
 "chat."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:7276
+#: ../pidgin/gtkblist.c:7274
 msgid ""
 "Please enter an alias, and the appropriate information about the chat you "
 "would like to add to your buddy list.\n"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:7297
+#: ../pidgin/gtkblist.c:7295
 msgid "A_lias:"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:7304
+#: ../pidgin/gtkblist.c:7302
 msgid "_Group:"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:7308
+#: ../pidgin/gtkblist.c:7306
 msgid "Auto_join when account connects."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:7309
+#: ../pidgin/gtkblist.c:7307
 msgid "_Remain in chat after window is closed."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:7332
+#: ../pidgin/gtkblist.c:7330
 msgid "Please enter the name of the group to be added."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:8036
+#: ../pidgin/gtkblist.c:8034
 msgid "Enable Account"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:8041
+#: ../pidgin/gtkblist.c:8039
 msgid "<PurpleMain>/Accounts/Enable Account"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:8095
+#: ../pidgin/gtkblist.c:8093
 msgid "<PurpleMain>/Accounts/"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:8116
+#: ../pidgin/gtkblist.c:8114
 msgid "_Edit Account"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:8134
+#: ../pidgin/gtkblist.c:8132
 msgid "Set _Mood..."
 msgstr ""
 
-#: ../pidgin/gtkblist.c:8144 ../pidgin/gtkconv.c:3349
+#: ../pidgin/gtkblist.c:8142 ../pidgin/gtkconv.c:3349
 #: ../pidgin/gtkimhtml.c:1848
 msgid "No actions available"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:8151
+#: ../pidgin/gtkblist.c:8149
 msgid "_Disable"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:8169
+#: ../pidgin/gtkblist.c:8167
 msgid "/Tools"
 msgstr ""
 
-#: ../pidgin/gtkblist.c:8240
+#: ../pidgin/gtkblist.c:8238
 msgid "/Buddies/Sort Buddies"
 msgstr ""
 
@@ -15467,99 +15467,99 @@ msgid ""
 msgstr ""
 
 #. Build the Send To menu
-#: ../pidgin/gtkconv.c:3889 ../pidgin/gtkconv.c:8582
+#: ../pidgin/gtkconv.c:3889 ../pidgin/gtkconv.c:8611
 msgid "S_end To"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:4555 ../pidgin/plugins/sendbutton.c:61
+#: ../pidgin/gtkconv.c:4583 ../pidgin/plugins/sendbutton.c:61
 msgid "_Send"
 msgstr ""
 
 #. Setup the label telling how many people are in the room.
-#: ../pidgin/gtkconv.c:4724
+#: ../pidgin/gtkconv.c:4752
 msgid "0 people in room"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:4879
+#: ../pidgin/gtkconv.c:4907
 msgid "Close Find bar"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:4881
+#: ../pidgin/gtkconv.c:4909
 msgid "Find:"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:6124 ../pidgin/gtkconv.c:6250
+#: ../pidgin/gtkconv.c:6174 ../pidgin/gtkconv.c:6292
 #, c-format
 msgid "%d person in room"
 msgid_plural "%d people in room"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../pidgin/gtkconv.c:6778
+#: ../pidgin/gtkconv.c:6822
 msgid "Stopped Typing"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:6781
+#: ../pidgin/gtkconv.c:6825
 msgid "Nick Said"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:6784
+#: ../pidgin/gtkconv.c:6828
 msgid "Unread Messages"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:6790
+#: ../pidgin/gtkconv.c:6834
 msgid "New Event"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:8063
+#: ../pidgin/gtkconv.c:8089
 msgid "clear: Clears all conversation scrollbacks."
 msgstr ""
 
-#: ../pidgin/gtkconv.c:8265
+#: ../pidgin/gtkconv.c:8294
 msgid "Confirm close"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:8297
+#: ../pidgin/gtkconv.c:8326
 msgid "You have unread messages. Are you sure you want to close the window?"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:8920
+#: ../pidgin/gtkconv.c:8949
 msgid "Close other tabs"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:8926
+#: ../pidgin/gtkconv.c:8955
 msgid "Close all tabs"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:8934
+#: ../pidgin/gtkconv.c:8963
 msgid "Detach this tab"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:8940
+#: ../pidgin/gtkconv.c:8969
 msgid "Close this tab"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:9443
+#: ../pidgin/gtkconv.c:9472
 msgid "Close conversation"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:10033
+#: ../pidgin/gtkconv.c:10062
 msgid "Last created window"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:10035
+#: ../pidgin/gtkconv.c:10064
 msgid "Separate IM and Chat windows"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:10037 ../pidgin/gtkprefs.c:1979
+#: ../pidgin/gtkconv.c:10066 ../pidgin/gtkprefs.c:1979
 msgid "New window"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:10039
+#: ../pidgin/gtkconv.c:10068
 msgid "By group"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:10041
+#: ../pidgin/gtkconv.c:10070
 msgid "By account"
 msgstr ""
 
@@ -16335,25 +16335,25 @@ msgstr ""
 msgid "<b>Sending As:</b>"
 msgstr ""
 
-#: ../pidgin/gtkft.c:474 ../pidgin/gtkutils.c:3179
+#: ../pidgin/gtkft.c:474 ../pidgin/gtkutils.c:3296
 msgid "There is no application configured to open this type of file."
 msgstr ""
 
-#: ../pidgin/gtkft.c:479 ../pidgin/gtkutils.c:3184
+#: ../pidgin/gtkft.c:479 ../pidgin/gtkutils.c:3301
 msgid "An error occurred while opening the file."
 msgstr ""
 
-#: ../pidgin/gtkft.c:516 ../pidgin/gtkutils.c:3219
+#: ../pidgin/gtkft.c:516 ../pidgin/gtkutils.c:3336
 #, c-format
 msgid "Error launching %s: %s"
 msgstr ""
 
-#: ../pidgin/gtkft.c:525 ../pidgin/gtkutils.c:3227
+#: ../pidgin/gtkft.c:525 ../pidgin/gtkutils.c:3344
 #, c-format
 msgid "Error running %s"
 msgstr ""
 
-#: ../pidgin/gtkft.c:526 ../pidgin/gtkutils.c:3228
+#: ../pidgin/gtkft.c:526 ../pidgin/gtkutils.c:3345
 #, c-format
 msgid "Process returned error code %d"
 msgstr ""
@@ -16764,66 +16764,66 @@ msgstr ""
 msgid "_Browse logs folder"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:425
+#: ../pidgin/gtkmain.c:427
 #, c-format
 msgid "%s %s. Try `%s -h' for more information.\n"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:429
+#: ../pidgin/gtkmain.c:431
 #, c-format
 msgid ""
 "Usage: %s [OPTION]...\n"
 "\n"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:431
+#: ../pidgin/gtkmain.c:433
 msgid "DIR"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:431
+#: ../pidgin/gtkmain.c:433
 msgid "use DIR for config files"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:433
+#: ../pidgin/gtkmain.c:435
 msgid "print debugging messages to stdout"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:435
+#: ../pidgin/gtkmain.c:437
 msgid "force online, regardless of network status"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:437
+#: ../pidgin/gtkmain.c:439
 msgid "display this help and exit"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:439
+#: ../pidgin/gtkmain.c:441
 msgid "allow multiple instances"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:441
+#: ../pidgin/gtkmain.c:443
 msgid "don't automatically login"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:443
+#: ../pidgin/gtkmain.c:445
 msgid "NAME"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:444
+#: ../pidgin/gtkmain.c:446
 msgid ""
 "enable specified account(s) (optional argument NAME\n"
 "                      specifies account(s) to use, separated by commas.\n"
 "                      Without this only the first account will be enabled)."
 msgstr ""
 
-#: ../pidgin/gtkmain.c:451
+#: ../pidgin/gtkmain.c:453
 msgid "X display to use"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:454
+#: ../pidgin/gtkmain.c:456
 msgid "display the current version and exit"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:544
+#: ../pidgin/gtkmain.c:546
 #, c-format
 msgid ""
 "%s %s has segfaulted and attempted to dump a core file.\n"
@@ -16840,7 +16840,7 @@ msgid ""
 "%swiki/GetABacktrace\n"
 msgstr ""
 
-#: ../pidgin/gtkmain.c:832
+#: ../pidgin/gtkmain.c:834
 #, c-format
 msgid "Exiting because another libpurple client is already running.\n"
 msgstr ""
@@ -17798,23 +17798,23 @@ msgstr ""
 msgid "Apply"
 msgstr ""
 
-#: ../pidgin/gtkrequest.c:1562
+#: ../pidgin/gtkrequest.c:1552
 msgid "That file already exists"
 msgstr ""
 
-#: ../pidgin/gtkrequest.c:1563
+#: ../pidgin/gtkrequest.c:1553
 msgid "Would you like to overwrite it?"
 msgstr ""
 
-#: ../pidgin/gtkrequest.c:1566
+#: ../pidgin/gtkrequest.c:1556
 msgid "Overwrite"
 msgstr ""
 
-#: ../pidgin/gtkrequest.c:1567
+#: ../pidgin/gtkrequest.c:1557
 msgid "Choose New Name"
 msgstr ""
 
-#: ../pidgin/gtkrequest.c:1666
+#: ../pidgin/gtkrequest.c:1656
 msgid "Select Folder..."
 msgstr ""
 
@@ -17907,7 +17907,7 @@ msgstr ""
 msgid "Shortcut Text"
 msgstr ""
 
-#: ../pidgin/gtksmiley.c:867
+#: ../pidgin/gtksmiley.c:864
 msgid "Custom Smiley Manager"
 msgstr ""
 
@@ -18046,35 +18046,35 @@ msgstr ""
 msgid "Could not set icon"
 msgstr ""
 
-#: ../pidgin/gtkutils.c:3124
+#: ../pidgin/gtkutils.c:3241
 msgid "_Open Link"
 msgstr ""
 
-#: ../pidgin/gtkutils.c:3131
+#: ../pidgin/gtkutils.c:3248
 msgid "_Copy Link Location"
 msgstr ""
 
-#: ../pidgin/gtkutils.c:3153
+#: ../pidgin/gtkutils.c:3270
 msgid "_Copy Email Address"
 msgstr ""
 
-#: ../pidgin/gtkutils.c:3265
+#: ../pidgin/gtkutils.c:3382
 msgid "_Open File"
 msgstr ""
 
-#: ../pidgin/gtkutils.c:3272
+#: ../pidgin/gtkutils.c:3389
 msgid "Open _Containing Directory"
 msgstr ""
 
-#: ../pidgin/gtkutils.c:3321 ../pidgin/gtkwhiteboard.c:754
+#: ../pidgin/gtkutils.c:3438 ../pidgin/gtkwhiteboard.c:754
 msgid "Save File"
 msgstr ""
 
-#: ../pidgin/gtkutils.c:3341
+#: ../pidgin/gtkutils.c:3458
 msgid "_Play Sound"
 msgstr ""
 
-#: ../pidgin/gtkutils.c:3349
+#: ../pidgin/gtkutils.c:3466
 msgid "_Save File"
 msgstr ""
 
