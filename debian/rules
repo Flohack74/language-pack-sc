@@ -54,5 +54,5 @@ binary-indep:
 
 binary: binary-arch binary-indep
 
-.PHONY: build clean binary-indep binary-arch binary
+.PHONY: build build-arch build-indep clean binary-indep binary-arch binary
 
