@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pidgin\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-08-25 23:50+0000\n"
+"POT-Creation-Date: 2011-09-24 07:09+0000\n"
 "PO-Revision-Date: 2010-05-23 08:23+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Sardinian <sc@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
-"X-Launchpad-Export-Date: 2011-09-06 01:32+0000\n"
-"X-Generator: Launchpad (build 13830)\n"
+"X-Launchpad-Export-Date: 2011-10-03 14:35+0000\n"
+"X-Generator: Launchpad (build 14071)\n"
 
 #. Translators may want to transliterate the name.
 #. It is not to be translated.
@@ -361,7 +361,7 @@ msgid "Error adding buddy"
 msgstr ""
 
 #: ../finch/gntblist.c:678 ../libpurple/protocols/irc/irc.c:1061
-#: ../libpurple/protocols/irc/msgs.c:368
+#: ../libpurple/protocols/irc/msgs.c:370
 #: ../libpurple/protocols/jabber/jabber.c:1401
 #: ../libpurple/protocols/jabber/jabber.c:1403
 #: ../libpurple/protocols/oscar/oscar.c:3032
@@ -4366,7 +4366,7 @@ msgstr ""
 #. * the generic away state (YAHOO_STATUS_TYPE_AWAY) with no message
 #. Away stuff
 #: ../libpurple/protocols/gg/gg.c:1176 ../libpurple/protocols/irc/irc.c:602
-#: ../libpurple/protocols/irc/msgs.c:362
+#: ../libpurple/protocols/irc/msgs.c:364
 #: ../libpurple/protocols/jabber/jutil.c:662
 #: ../libpurple/protocols/mxit/roster.c:55
 #: ../libpurple/protocols/novell/novell.c:2847
@@ -4779,7 +4779,7 @@ msgid "The IRC Protocol Plugin that Sucks Less"
 msgstr ""
 
 #. host to connect to
-#: ../libpurple/protocols/irc/irc.c:1049 ../libpurple/protocols/irc/msgs.c:375
+#: ../libpurple/protocols/irc/irc.c:1049 ../libpurple/protocols/irc/msgs.c:377
 #: ../libpurple/protocols/msn/msn.c:3046
 #: ../libpurple/protocols/oscar/oscar.c:5785
 #: ../libpurple/protocols/sametime/sametime.c:5810
@@ -4808,7 +4808,7 @@ msgstr ""
 msgid "Auto-detect incoming UTF-8"
 msgstr ""
 
-#: ../libpurple/protocols/irc/irc.c:1064 ../libpurple/protocols/irc/msgs.c:369
+#: ../libpurple/protocols/irc/irc.c:1064 ../libpurple/protocols/irc/msgs.c:371
 #: ../libpurple/protocols/silc/silc.c:1249
 #: ../libpurple/protocols/silc10/silc.c:945
 msgid "Real name"
@@ -4822,154 +4822,154 @@ msgstr ""
 msgid "Use SSL"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:190
+#: ../libpurple/protocols/irc/msgs.c:192
 msgid "Bad mode"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:213
+#: ../libpurple/protocols/irc/msgs.c:215
 #, c-format
 msgid "Ban on %s by %s, set %s ago"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:217
+#: ../libpurple/protocols/irc/msgs.c:219
 #, c-format
 msgid "Ban on %s"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:232
+#: ../libpurple/protocols/irc/msgs.c:234
 msgid "End of ban list"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:246
+#: ../libpurple/protocols/irc/msgs.c:248
 #, c-format
 msgid "You are banned from %s."
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:247
+#: ../libpurple/protocols/irc/msgs.c:249
 msgid "Banned"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:264
+#: ../libpurple/protocols/irc/msgs.c:266
 #, c-format
 msgid "Cannot ban %s: banlist is full"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:353
+#: ../libpurple/protocols/irc/msgs.c:355
 msgid " <i>(ircop)</i>"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:354
+#: ../libpurple/protocols/irc/msgs.c:356
 msgid " <i>(identified)</i>"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:355
+#: ../libpurple/protocols/irc/msgs.c:357
 #: ../libpurple/protocols/oscar/userinfo.c:406
 #: ../libpurple/protocols/silc/ops.c:1424
 #: ../libpurple/protocols/silc10/ops.c:1414
 msgid "Nick"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:381
+#: ../libpurple/protocols/irc/msgs.c:383
 #: ../libpurple/protocols/silc/ops.c:1270
 #: ../libpurple/protocols/silc10/ops.c:1272
 msgid "Currently on"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:386
+#: ../libpurple/protocols/irc/msgs.c:388
 msgid "Idle for"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:389
+#: ../libpurple/protocols/irc/msgs.c:391
 msgid "Online since"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:393
+#: ../libpurple/protocols/irc/msgs.c:395
 msgid "<b>Defining adjective:</b>"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:393
+#: ../libpurple/protocols/irc/msgs.c:395
 msgid "Glorious"
-msgstr ""
-
-#: ../libpurple/protocols/irc/msgs.c:550
-#, c-format
-msgid "%s has changed the topic to: %s"
 msgstr ""
 
 #: ../libpurple/protocols/irc/msgs.c:552
 #, c-format
+msgid "%s has changed the topic to: %s"
+msgstr ""
+
+#: ../libpurple/protocols/irc/msgs.c:554
+#, c-format
 msgid "%s has cleared the topic."
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:560
+#: ../libpurple/protocols/irc/msgs.c:562
 #, c-format
 msgid "The topic for %s is: %s"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:578
+#: ../libpurple/protocols/irc/msgs.c:580
 #, c-format
 msgid "Unknown message '%s'"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:579
+#: ../libpurple/protocols/irc/msgs.c:581
 msgid "Unknown message"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:579
+#: ../libpurple/protocols/irc/msgs.c:581
 msgid "The IRC server received a message it did not understand."
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:600
+#: ../libpurple/protocols/irc/msgs.c:602
 #, c-format
 msgid "Users on %s: %s"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:713
+#: ../libpurple/protocols/irc/msgs.c:715
 msgid "Time Response"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:714
+#: ../libpurple/protocols/irc/msgs.c:716
 msgid "The IRC server's local time is:"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:725
+#: ../libpurple/protocols/irc/msgs.c:727
 msgid "No such channel"
 msgstr ""
 
 #. does this happen?
-#: ../libpurple/protocols/irc/msgs.c:736
+#: ../libpurple/protocols/irc/msgs.c:738
 msgid "no such channel"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:739
+#: ../libpurple/protocols/irc/msgs.c:741
 msgid "User is not logged in"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:744
+#: ../libpurple/protocols/irc/msgs.c:746
 msgid "No such nick or channel"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:764
+#: ../libpurple/protocols/irc/msgs.c:766
 msgid "Could not send"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:820
+#: ../libpurple/protocols/irc/msgs.c:822
 #, c-format
 msgid "Joining %s requires an invitation."
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:821
+#: ../libpurple/protocols/irc/msgs.c:823
 msgid "Invitation only"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:955
+#: ../libpurple/protocols/irc/msgs.c:957
 #: ../libpurple/protocols/jabber/presence.c:740
 #, c-format
 msgid "You have been kicked by %s: (%s)"
 msgstr ""
 
 #. Remove user from channel
-#: ../libpurple/protocols/irc/msgs.c:960
+#: ../libpurple/protocols/irc/msgs.c:962
 #: ../libpurple/protocols/jabber/presence.c:747
 #: ../libpurple/protocols/silc/ops.c:716
 #: ../libpurple/protocols/silc10/ops.c:720
@@ -4977,24 +4977,24 @@ msgstr ""
 msgid "Kicked by %s (%s)"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:983
+#: ../libpurple/protocols/irc/msgs.c:985
 #, c-format
 msgid "mode (%s %s) by %s"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:1073
-#: ../libpurple/protocols/irc/msgs.c:1074
+#: ../libpurple/protocols/irc/msgs.c:1075
+#: ../libpurple/protocols/irc/msgs.c:1076
 #: ../libpurple/protocols/jabber/jabber.c:2885
 msgid "Invalid nickname"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:1075
+#: ../libpurple/protocols/irc/msgs.c:1077
 msgid ""
 "Your selected nickname was rejected by the server.  It probably contains "
 "invalid characters."
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:1080
+#: ../libpurple/protocols/irc/msgs.c:1082
 msgid ""
 "Your selected account name was rejected by the server.  It probably contains "
 "invalid characters."
@@ -5003,54 +5003,54 @@ msgstr ""
 #. We only want to do the following dance if the connection
 #. has not been successfully completed.  If it has, just
 #. notify the user that their /nick command didn't go.
-#: ../libpurple/protocols/irc/msgs.c:1096
+#: ../libpurple/protocols/irc/msgs.c:1098
 #, c-format
 msgid "The nickname \"%s\" is already being used."
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:1098
-#: ../libpurple/protocols/irc/msgs.c:1099
+#: ../libpurple/protocols/irc/msgs.c:1100
+#: ../libpurple/protocols/irc/msgs.c:1101
 msgid "Nickname in use"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:1143
+#: ../libpurple/protocols/irc/msgs.c:1145
 msgid "Cannot change nick"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:1143
+#: ../libpurple/protocols/irc/msgs.c:1145
 msgid "Could not change nick"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:1168
+#: ../libpurple/protocols/irc/msgs.c:1170
 #, c-format
 msgid "You have parted the channel%s%s"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:1212
+#: ../libpurple/protocols/irc/msgs.c:1214
 msgid "Error: invalid PONG from server"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:1214
+#: ../libpurple/protocols/irc/msgs.c:1216
 #, c-format
 msgid "PING reply -- Lag: %lu seconds"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:1305
+#: ../libpurple/protocols/irc/msgs.c:1307
 #, c-format
 msgid "Cannot join %s: Registration is required."
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:1306
+#: ../libpurple/protocols/irc/msgs.c:1308
 #: ../libpurple/protocols/silc/ops.c:1095
 #: ../libpurple/protocols/silc10/ops.c:1128
 msgid "Cannot join channel"
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:1340
+#: ../libpurple/protocols/irc/msgs.c:1342
 msgid "Nick or channel is temporarily unavailable."
 msgstr ""
 
-#: ../libpurple/protocols/irc/msgs.c:1352
+#: ../libpurple/protocols/irc/msgs.c:1354
 #, c-format
 msgid "Wallops from %s"
 msgstr ""
