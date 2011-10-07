@@ -1,18 +1,6 @@
-language-pack-sc (1:11.10+20110926) oneiric; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Tue, 27 Sep 2011 10:18:15 +0000
-
-language-pack-sc (1:11.10+20110905) oneiric; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Tue, 06 Sep 2011 14:57:47 +0000
-
-language-pack-sc (1:11.10+20110822) oneiric; urgency=low
+language-pack-sc (1:11.10+20111006) oneiric; urgency=low
 
   * Initial release.
 
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Fri, 26 Aug 2011 09:04:15 +0000
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Fri, 07 Oct 2011 07:31:12 +0000
 
