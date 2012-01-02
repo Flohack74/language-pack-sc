@@ -1,6 +1,6 @@
-language-pack-sc (1:11.10+20111006) oneiric; urgency=low
+language-pack-sc (1:12.04+20111229) precise; urgency=low
 
   * Initial release.
 
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Fri, 07 Oct 2011 07:31:12 +0000
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Mon, 02 Jan 2012 18:21:54 +0000
 
