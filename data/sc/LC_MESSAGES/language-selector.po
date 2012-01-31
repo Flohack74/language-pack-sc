@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: language-selector\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-01-03 14:34+0000\n"
+"POT-Creation-Date: 2012-01-26 15:37+0000\n"
 "PO-Revision-Date: 2011-05-18 23:43+0000\n"
 "Last-Translator: Dàriu Piga <Unknown>\n"
 "Language-Team: Sardinian <sc@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
-"X-Launchpad-Export-Date: 2012-01-26 11:29+0000\n"
-"X-Generator: Launchpad (build 14719)\n"
+"X-Launchpad-Export-Date: 2012-01-30 11:46+0000\n"
+"X-Generator: Launchpad (build 14727)\n"
 
 #. Hack for Chinese langpack split
 #. Translators: please translate 'Chinese (simplified)' and 'Chinese (traditional)' so that they appear next to each other when sorted alphabetically.
@@ -89,13 +89,11 @@ msgstr ""
 #: ../LanguageSelector/gtk/GtkLanguageSelector.py:714
 #: ../LanguageSelector/qt/QtLanguageSelector.py:68
 #: ../LanguageSelector/qt/QtLanguageSelector.py:337
-#: ../check-language-support:52
 msgid "Software database is broken"
 msgstr "Sa base de datos de su software est segada"
 
 #: ../LanguageSelector/gtk/GtkLanguageSelector.py:519
 #: ../LanguageSelector/gtk/GtkLanguageSelector.py:715
-#: ../check-language-support:53
 msgid ""
 "It is impossible to install or remove any software. Please use the package "
 "manager \"Synaptic\" or run \"sudo apt-get install -f\" in a terminal to fix "
@@ -499,7 +497,7 @@ msgstr ""
 msgid "don't verify installed language support"
 msgstr "no verificat su suportu de sa limba installada."
 
-#: ../gnome-language-selector:23 ../check-language-support:22
+#: ../gnome-language-selector:23 ../check-language-support:20
 msgid "alternative datadir"
 msgstr "Directory de datos alternativos."
 
@@ -553,21 +551,21 @@ msgstr ""
 "No s'est agatada peruna configuratzione de fontconfig-voodoo pro sa "
 "localizatzione seletzionada."
 
-#: ../check-language-support:19
+#: ../check-language-support:17
 msgid "target language code"
 msgstr "Còdigu de sa limba de destinatzione."
 
-#: ../check-language-support:23
+#: ../check-language-support:21
 msgid "check for the given package(s) only -- separate packagenames by comma"
 msgstr ""
 "Iscumproa solu sos pachetes indicados -- separa sos nùmines de pachetes cun "
 "d'una vìrgula."
 
-#: ../check-language-support:25
-msgid "check all available languages"
-msgstr "Iscumproa totus sas limbas disponìbiles."
+#: ../check-language-support:23
+msgid "output all available language support packages for all languages"
+msgstr ""
 
-#: ../check-language-support:28
+#: ../check-language-support:26
 msgid "show installed packages as well as missing ones"
 msgstr ""
 "Mustra sos pachetes installados e a su matessi tempus cussos mancantes."
