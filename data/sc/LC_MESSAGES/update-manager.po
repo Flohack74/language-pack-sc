@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: update-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-03 10:20+0000\n"
+"POT-Creation-Date: 2012-02-06 12:07+0000\n"
 "PO-Revision-Date: 2010-09-06 03:55+0000\n"
 "Last-Translator: Borealis <borealis@tiscali.it>\n"
 "Language-Team: Sardinian <sc@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
-"X-Launchpad-Export-Date: 2012-02-06 10:22+0000\n"
-"X-Generator: Launchpad (build 14747)\n"
+"X-Launchpad-Export-Date: 2012-02-09 10:28+0000\n"
+"X-Generator: Launchpad (build 14763)\n"
 
 #. TRANSLATORS: download size of small updates, e.g. "250 kB"
 #: ../DistUpgrade/utils.py:397 ../UpdateManager/Core/utils.py:397
@@ -1224,58 +1224,56 @@ msgid "Fetching the upgrade failed. There may be a network problem. "
 msgstr ""
 
 #: ../DistUpgrade/DistUpgradeFetcherCore.py:252
-#: ../DistUpgrade/DistUpgradeFetcherCore.py:258
 #: ../UpdateManager/Core/DistUpgradeFetcherCore.py:252
 msgid "Authentication failed"
 msgstr ""
 
 #: ../DistUpgrade/DistUpgradeFetcherCore.py:253
-#: ../DistUpgrade/DistUpgradeFetcherCore.py:259
 #: ../UpdateManager/Core/DistUpgradeFetcherCore.py:253
 msgid ""
 "Authenticating the upgrade failed. There may be a problem with the network "
 "or with the server. "
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeFetcherCore.py:264
+#: ../DistUpgrade/DistUpgradeFetcherCore.py:258
 #: ../UpdateManager/Core/DistUpgradeFetcherCore.py:258
 msgid "Failed to extract"
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeFetcherCore.py:265
+#: ../DistUpgrade/DistUpgradeFetcherCore.py:259
 #: ../UpdateManager/Core/DistUpgradeFetcherCore.py:259
 msgid ""
 "Extracting the upgrade failed. There may be a problem with the network or "
 "with the server. "
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeFetcherCore.py:270
+#: ../DistUpgrade/DistUpgradeFetcherCore.py:264
 #: ../UpdateManager/Core/DistUpgradeFetcherCore.py:264
 msgid "Verification failed"
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeFetcherCore.py:271
+#: ../DistUpgrade/DistUpgradeFetcherCore.py:265
 #: ../UpdateManager/Core/DistUpgradeFetcherCore.py:265
 msgid ""
 "Verifying the upgrade failed.  There may be a problem with the network or "
 "with the server. "
 msgstr ""
 
+#: ../DistUpgrade/DistUpgradeFetcherCore.py:279
 #: ../DistUpgrade/DistUpgradeFetcherCore.py:285
-#: ../DistUpgrade/DistUpgradeFetcherCore.py:291
 #: ../UpdateManager/Core/DistUpgradeFetcherCore.py:279
 #: ../UpdateManager/Core/DistUpgradeFetcherCore.py:285
 msgid "Can not run the upgrade"
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeFetcherCore.py:286
+#: ../DistUpgrade/DistUpgradeFetcherCore.py:280
 #: ../UpdateManager/Core/DistUpgradeFetcherCore.py:280
 msgid ""
 "This usually is caused by a system where /tmp is mounted noexec. Please "
 "remount without noexec and run the upgrade again."
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeFetcherCore.py:292
+#: ../DistUpgrade/DistUpgradeFetcherCore.py:286
 #: ../UpdateManager/Core/DistUpgradeFetcherCore.py:286
 #, python-format
 msgid "The error message is '%s'."

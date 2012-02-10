@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: language-selector\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-02-06 06:27+0000\n"
+"POT-Creation-Date: 2012-02-08 05:21+0000\n"
 "PO-Revision-Date: 2011-05-18 23:43+0000\n"
 "Last-Translator: Dàriu Piga <Unknown>\n"
 "Language-Team: Sardinian <sc@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
-"X-Launchpad-Export-Date: 2012-02-06 11:41+0000\n"
-"X-Generator: Launchpad (build 14747)\n"
+"X-Launchpad-Export-Date: 2012-02-09 11:46+0000\n"
+"X-Generator: Launchpad (build 14763)\n"
 
 #. Hack for Chinese langpack split
 #. Translators: please translate 'Chinese (simplified)' and 'Chinese (traditional)' so that they appear next to each other when sorted alphabetically.
@@ -86,14 +86,14 @@ msgid "none"
 msgstr ""
 
 #: ../LanguageSelector/gtk/GtkLanguageSelector.py:512
-#: ../LanguageSelector/gtk/GtkLanguageSelector.py:708
+#: ../LanguageSelector/gtk/GtkLanguageSelector.py:704
 #: ../LanguageSelector/qt/QtLanguageSelector.py:69
-#: ../LanguageSelector/qt/QtLanguageSelector.py:331
+#: ../LanguageSelector/qt/QtLanguageSelector.py:329
 msgid "Software database is broken"
 msgstr "Sa base de datos de su software est segada"
 
 #: ../LanguageSelector/gtk/GtkLanguageSelector.py:513
-#: ../LanguageSelector/gtk/GtkLanguageSelector.py:709
+#: ../LanguageSelector/gtk/GtkLanguageSelector.py:705
 msgid ""
 "It is impossible to install or remove any software. Please use the package "
 "manager \"Synaptic\" or run \"sudo apt-get install -f\" in a terminal to fix "
@@ -103,12 +103,12 @@ msgstr ""
 "Gestore de Pachetes «Synaptic» (o iscrie «sudo apt-get install -f» in d'unu "
 "terminale), pro currègere custu problema."
 
-#: ../LanguageSelector/gtk/GtkLanguageSelector.py:558
+#: ../LanguageSelector/gtk/GtkLanguageSelector.py:554
 msgid "Could not install the selected language support"
 msgstr ""
 "No est istadu possìbile a installare su suportu pro sa limba seletzionada."
 
-#: ../LanguageSelector/gtk/GtkLanguageSelector.py:559
+#: ../LanguageSelector/gtk/GtkLanguageSelector.py:555
 msgid ""
 "This is perhaps a bug of this application. Please file a bug report at "
 "https://bugs.launchpad.net/ubuntu/+source/language-selector/+filebug"
@@ -117,12 +117,12 @@ msgstr ""
 "cumpila su formulàriu de sos errores in "
 "https://bugs.launchpad.net/ubuntu/+source/language-selector/+filebug"
 
-#: ../LanguageSelector/gtk/GtkLanguageSelector.py:583
+#: ../LanguageSelector/gtk/GtkLanguageSelector.py:579
 msgid "Could not install the full language support"
 msgstr ""
 "No est istadu possìbile a installare su suportu cumpletu pro sa limba."
 
-#: ../LanguageSelector/gtk/GtkLanguageSelector.py:584
+#: ../LanguageSelector/gtk/GtkLanguageSelector.py:580
 msgid ""
 "Usually this is related to an error in your software archive or software "
 "manager. Check your preferences in Software Sources (click the icon at the "
@@ -130,12 +130,12 @@ msgid ""
 "Sources\")."
 msgstr ""
 
-#: ../LanguageSelector/gtk/GtkLanguageSelector.py:665
+#: ../LanguageSelector/gtk/GtkLanguageSelector.py:661
 #: ../LanguageSelector/qt/QtLanguageSelector.py:162
 msgid "The language support is not installed completely"
 msgstr ""
 
-#: ../LanguageSelector/gtk/GtkLanguageSelector.py:666
+#: ../LanguageSelector/gtk/GtkLanguageSelector.py:662
 #: ../LanguageSelector/qt/QtLanguageSelector.py:163
 msgid ""
 "Some translations or writing aids available for your chosen languages are "
@@ -144,29 +144,29 @@ msgstr ""
 "No sunt istadas installadas totus sas tradutziones o corretores ortogràficos "
 "disponìbiles pro sas limbas seletzionadas. A los cheres installare como?"
 
-#: ../LanguageSelector/gtk/GtkLanguageSelector.py:669
+#: ../LanguageSelector/gtk/GtkLanguageSelector.py:665
 #: ../LanguageSelector/qt/QtLanguageSelector.py:81
 #: ../LanguageSelector/qt/QtLanguageSelector.py:158
 msgid "_Remind Me Later"
 msgstr "Amentamillu pius a tardu."
 
 #. FIXME: add "details"
-#: ../LanguageSelector/gtk/GtkLanguageSelector.py:670
+#: ../LanguageSelector/gtk/GtkLanguageSelector.py:666
 #: ../LanguageSelector/qt/QtLanguageSelector.py:157
 msgid "_Install"
 msgstr "_Installa"
 
-#: ../LanguageSelector/gtk/GtkLanguageSelector.py:673
+#: ../LanguageSelector/gtk/GtkLanguageSelector.py:669
 msgid "Details"
 msgstr "Bìdere sos detàllios"
 
-#: ../LanguageSelector/gtk/GtkLanguageSelector.py:924
+#: ../LanguageSelector/gtk/GtkLanguageSelector.py:920
 #, python-format
 msgid "Failed to apply the '%s' format choice:"
 msgstr ""
 
 #: ../LanguageSelector/qt/QtLanguageSelector.py:70
-#: ../LanguageSelector/qt/QtLanguageSelector.py:332
+#: ../LanguageSelector/qt/QtLanguageSelector.py:330
 msgid ""
 "It is impossible to install or remove any software. Please use the package "
 "manager \"Adept\" or run \"sudo apt-get install -f\" in a terminal to fix "
@@ -230,60 +230,60 @@ msgstr "Installadu partzialmente."
 msgid "Not installed"
 msgstr "No installadu"
 
-#: ../LanguageSelector/qt/QtLanguageSelector.py:244
+#: ../LanguageSelector/qt/QtLanguageSelector.py:243
 msgid "Component already installed"
 msgstr ""
 
-#: ../LanguageSelector/qt/QtLanguageSelector.py:246
+#: ../LanguageSelector/qt/QtLanguageSelector.py:245
 msgid "Component not available"
 msgstr ""
 
-#: ../LanguageSelector/qt/QtLanguageSelector.py:248
+#: ../LanguageSelector/qt/QtLanguageSelector.py:247
 msgid "Component not installed"
 msgstr ""
 
-#: ../LanguageSelector/qt/QtLanguageSelector.py:290
+#: ../LanguageSelector/qt/QtLanguageSelector.py:289
 #, python-format
 msgid "Default system Language now set to %s."
 msgstr "Sa limba predeterminada de su sistema como est %s."
 
-#: ../LanguageSelector/qt/QtLanguageSelector.py:290
+#: ../LanguageSelector/qt/QtLanguageSelector.py:289
 msgid "Language Set"
 msgstr "Limba istabilida"
 
-#: ../LanguageSelector/qt/QtLanguageSelector.py:357
+#: ../LanguageSelector/qt/QtLanguageSelector.py:355
 #, python-format
 msgid ""
 "All selected components have now been installed for %s.  Select them from "
 "Country/Region & Language."
 msgstr ""
 
-#: ../LanguageSelector/qt/QtLanguageSelector.py:357
+#: ../LanguageSelector/qt/QtLanguageSelector.py:355
 msgid "Language Installed"
 msgstr "Limba installada."
 
-#: ../LanguageSelector/qt/QtLanguageSelector.py:359
+#: ../LanguageSelector/qt/QtLanguageSelector.py:357
 #, python-format
 msgid "Translations and support have now been uninstalled for %s."
 msgstr "Sunt istadas disinstalladas sas tradutziones y su suportu pro %s."
 
-#: ../LanguageSelector/qt/QtLanguageSelector.py:359
+#: ../LanguageSelector/qt/QtLanguageSelector.py:357
 msgid "Language Uninstalled"
 msgstr "Limba disinstallada."
 
-#: ../LanguageSelector/qt/QtLanguageSelector.py:367
+#: ../LanguageSelector/qt/QtLanguageSelector.py:365
 msgid "Failed to set system language."
 msgstr "Errore in sa cunfirmatzione de sa limba de su sistema."
 
-#: ../LanguageSelector/qt/QtLanguageSelector.py:367
+#: ../LanguageSelector/qt/QtLanguageSelector.py:365
 msgid "Language Not Set"
 msgstr "Limba no cunfirmada"
 
-#: ../LanguageSelector/qt/QtLanguageSelector.py:436
+#: ../LanguageSelector/qt/QtLanguageSelector.py:434
 msgid "Please run this software with administrative rights."
 msgstr "Pro piaghere, aberi su software cun privilègios de aministratzione."
 
-#: ../LanguageSelector/qt/QtLanguageSelector.py:436
+#: ../LanguageSelector/qt/QtLanguageSelector.py:434
 msgid "Not Root User"
 msgstr "No est s'utente aministradore."
 
