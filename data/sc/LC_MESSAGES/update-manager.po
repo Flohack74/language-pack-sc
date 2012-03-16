@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: update-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-05 08:14+0000\n"
+"POT-Creation-Date: 2012-03-13 15:02+0000\n"
 "PO-Revision-Date: 2010-09-06 03:55+0000\n"
 "Last-Translator: Borealis <borealis8uno@hotmail.com>\n"
 "Language-Team: Sardinian <sc@li.org>\n"
@@ -15,11 +15,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
-"X-Launchpad-Export-Date: 2012-03-08 09:47+0000\n"
-"X-Generator: Launchpad (build 14914)\n"
+"X-Launchpad-Export-Date: 2012-03-15 09:59+0000\n"
+"X-Generator: Launchpad (build 14933)\n"
 
 #. TRANSLATORS: download size of small updates, e.g. "250 kB"
-#: ../DistUpgrade/utils.py:397 ../UpdateManager/Core/utils.py:397
+#: ../DistUpgrade/utils.py:399 ../UpdateManager/Core/utils.py:399
 #, python-format
 msgid "%(size).0f kB"
 msgid_plural "%(size).0f kB"
@@ -27,7 +27,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. TRANSLATORS: download size of updates, e.g. "2.3 MB"
-#: ../DistUpgrade/utils.py:400 ../UpdateManager/Core/utils.py:400
+#: ../DistUpgrade/utils.py:402 ../UpdateManager/Core/utils.py:402
 #, python-format
 msgid "%.1f MB"
 msgstr "%.1f MiB"
@@ -136,7 +136,7 @@ msgid ""
 msgstr ""
 
 #: ../DistUpgrade/DistUpgradeCache.py:677
-#: ../UpdateManager/UpdateManager.py:1024
+#: ../UpdateManager/UpdateManager.py:1025
 msgid "Could not calculate the upgrade"
 msgstr ""
 
@@ -419,7 +419,7 @@ msgstr ""
 
 #. print "on_button_install_clicked"
 #: ../DistUpgrade/DistUpgradeController.py:867
-#: ../UpdateManager/UpdateManager.py:749
+#: ../UpdateManager/UpdateManager.py:750
 msgid "Not enough free disk space"
 msgstr ""
 
@@ -641,26 +641,28 @@ msgid ""
 msgstr ""
 
 #: ../DistUpgrade/DistUpgradeQuirks.py:496
-msgid "Your graphics hardware may not be fully supported in Ubuntu 11.04."
+msgid ""
+"Your graphics hardware may not be fully supported in Ubuntu 12.04 LTS."
 msgstr ""
 
 #: ../DistUpgrade/DistUpgradeQuirks.py:498
 msgid ""
-"The support in Ubuntu 11.04 for your intel graphics hardware is limited and "
-"you may encounter problems after the upgrade. Do you want to continue with "
-"the upgrade?"
+"The support in Ubuntu 12.04 LTS for your Intel graphics hardware is limited "
+"and you may encounter problems after the upgrade. For more information see "
+"https://wiki.ubuntu.com/X/Bugs/UpdateManagerWarningForI8xx Do you want to "
+"continue with the upgrade?"
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeQuirks.py:518
-#: ../DistUpgrade/DistUpgradeQuirks.py:546
-#: ../DistUpgrade/DistUpgradeQuirks.py:573
+#: ../DistUpgrade/DistUpgradeQuirks.py:520
+#: ../DistUpgrade/DistUpgradeQuirks.py:548
+#: ../DistUpgrade/DistUpgradeQuirks.py:575
 msgid ""
 "Upgrading may reduce desktop effects, and performance in games and other "
 "graphically intensive programs."
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeQuirks.py:522
-#: ../DistUpgrade/DistUpgradeQuirks.py:550
+#: ../DistUpgrade/DistUpgradeQuirks.py:524
+#: ../DistUpgrade/DistUpgradeQuirks.py:552
 msgid ""
 "This computer is currently using the NVIDIA 'nvidia' graphics driver. No "
 "version of this driver is available that works with your video card in "
@@ -669,7 +671,7 @@ msgid ""
 "Do you want to continue?"
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeQuirks.py:577
+#: ../DistUpgrade/DistUpgradeQuirks.py:579
 msgid ""
 "This computer is currently using the AMD 'fglrx' graphics driver. No version "
 "of this driver is available that works with your hardware in Ubuntu 10.04 "
@@ -678,11 +680,11 @@ msgid ""
 "Do you want to continue?"
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeQuirks.py:607
+#: ../DistUpgrade/DistUpgradeQuirks.py:609
 msgid "No i686 CPU"
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeQuirks.py:608
+#: ../DistUpgrade/DistUpgradeQuirks.py:610
 msgid ""
 "Your system uses an i586 CPU or a CPU that does not have the 'cmov' "
 "extension. All packages were built with optimizations requiring i686 as the "
@@ -690,11 +692,11 @@ msgid ""
 "Ubuntu release with this hardware."
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeQuirks.py:644
+#: ../DistUpgrade/DistUpgradeQuirks.py:646
 msgid "No ARMv6 CPU"
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeQuirks.py:645
+#: ../DistUpgrade/DistUpgradeQuirks.py:647
 msgid ""
 "Your system uses an ARM CPU that is older than the ARMv6 architecture. All "
 "packages in karmic were built with optimizations requiring ARMv6 as the "
@@ -702,11 +704,11 @@ msgid ""
 "Ubuntu release with this hardware."
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeQuirks.py:665
+#: ../DistUpgrade/DistUpgradeQuirks.py:667
 msgid "No init available"
 msgstr ""
 
-#: ../DistUpgrade/DistUpgradeQuirks.py:666
+#: ../DistUpgrade/DistUpgradeQuirks.py:668
 msgid ""
 "Your system appears to be a virtualised environment without an init daemon, "
 "e.g. Linux-VServer. Ubuntu 10.04 LTS cannot function within this type of "
@@ -1158,7 +1160,7 @@ msgid "Removing the packages can take several hours. "
 msgstr ""
 
 #. FIXME: this should go into DistUpgradeController
-#: ../DistUpgrade/DistUpgradeView.py:388 ../UpdateManager/UpdateManager.py:674
+#: ../DistUpgrade/DistUpgradeView.py:388 ../UpdateManager/UpdateManager.py:675
 msgid "The software on this computer is up to date."
 msgstr ""
 
@@ -1503,90 +1505,90 @@ msgstr ""
 msgid "Downloading file %(current)li of %(total)li"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:103 ../do-release-upgrade:95
+#: ../UpdateManager/UpdateManager.py:104 ../do-release-upgrade:95
 msgid "Your Ubuntu release is not supported anymore."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:104
+#: ../UpdateManager/UpdateManager.py:105
 msgid ""
 "You will not get any further security fixes or critical updates. Please "
 "upgrade to a later version of Ubuntu."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:112
+#: ../UpdateManager/UpdateManager.py:113
 msgid "Upgrade information"
 msgstr ""
 
 #. upload_archive = version_match.group(2).strip()
-#: ../UpdateManager/UpdateManager.py:387
+#: ../UpdateManager/UpdateManager.py:388
 #, python-format
 msgid "Version %s: \n"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:444
+#: ../UpdateManager/UpdateManager.py:445
 msgid ""
 "No network connection detected, you can not download changelog information."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:452
+#: ../UpdateManager/UpdateManager.py:453
 msgid "Downloading list of changes..."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:496
+#: ../UpdateManager/UpdateManager.py:497
 msgid "_Deselect All"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:502
+#: ../UpdateManager/UpdateManager.py:503
 msgid "Select _All"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:562
+#: ../UpdateManager/UpdateManager.py:563
 #, python-format
 msgid "%(count)s update has been selected."
 msgid_plural "%(count)s updates have been selected."
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../UpdateManager/UpdateManager.py:566
+#: ../UpdateManager/UpdateManager.py:567
 #, python-format
 msgid "%s will be downloaded."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:578
+#: ../UpdateManager/UpdateManager.py:579
 msgid "The update has already been downloaded, but not installed."
 msgid_plural "The updates have already been downloaded, but not installed."
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../UpdateManager/UpdateManager.py:583
+#: ../UpdateManager/UpdateManager.py:584
 msgid "There are no updates to install."
 msgstr ""
 
 #. TRANSLATORS: this allows to switch the order of the count of
 #. updates and the download size string (if needed)
-#: ../UpdateManager/UpdateManager.py:589
+#: ../UpdateManager/UpdateManager.py:590
 #, python-format
 msgid "%(count_str)s %(download_str)s"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:596
+#: ../UpdateManager/UpdateManager.py:597
 msgid "Unknown download size."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:622
+#: ../UpdateManager/UpdateManager.py:623
 msgid ""
 "It is unknown when the package information was updated last. Please click "
 "the 'Check' button to update the information."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:628
+#: ../UpdateManager/UpdateManager.py:629
 #, python-format
 msgid ""
 "The package information was last updated %(days_ago)s days ago.\n"
 "Press the 'Check' button below to check for new software updates."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:633
+#: ../UpdateManager/UpdateManager.py:634
 #, python-format
 msgid "The package information was last updated %(days_ago)s day ago."
 msgid_plural ""
@@ -1594,7 +1596,7 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../UpdateManager/UpdateManager.py:637
+#: ../UpdateManager/UpdateManager.py:638
 #, python-format
 msgid "The package information was last updated %(hours_ago)s hour ago."
 msgid_plural ""
@@ -1603,42 +1605,42 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. TRANSLATORS: only in plural form, as %s minutes ago is one of 15, 30, 45 minutes ago
-#: ../UpdateManager/UpdateManager.py:642 ../UpdateManager/UpdateManager.py:644
-#: ../UpdateManager/UpdateManager.py:646
+#: ../UpdateManager/UpdateManager.py:643 ../UpdateManager/UpdateManager.py:645
+#: ../UpdateManager/UpdateManager.py:647
 #, python-format
 msgid "The package information was last updated about %s minutes ago."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:648
+#: ../UpdateManager/UpdateManager.py:649
 msgid "The package information was just updated."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:668
+#: ../UpdateManager/UpdateManager.py:669
 #: ../data/gtkbuilder/UpdateManager.ui.h:2
 msgid ""
 "Software updates correct errors, eliminate security vulnerabilities and "
 "provide new features."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:687
+#: ../UpdateManager/UpdateManager.py:688
 msgid "Software updates may be available for your computer."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:695
+#: ../UpdateManager/UpdateManager.py:696
 msgid "Welcome to Ubuntu"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:696
+#: ../UpdateManager/UpdateManager.py:697
 msgid ""
 "These software updates have been issued since this version of Ubuntu was "
 "released."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:699
+#: ../UpdateManager/UpdateManager.py:700
 msgid "Software updates are available for this computer."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:750
+#: ../UpdateManager/UpdateManager.py:751
 #, python-format
 msgid ""
 "The upgrade needs a total of %s free space on disk '%s'. Please free at "
@@ -1646,29 +1648,29 @@ msgid ""
 "temporary packages of former installations using 'sudo apt-get clean'."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:775
+#: ../UpdateManager/UpdateManager.py:776
 msgid ""
 "The computer needs to restart to finish installing updates. Please save your "
 "work before continuing."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:839
+#: ../UpdateManager/UpdateManager.py:840
 msgid "Reading package information"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:854
+#: ../UpdateManager/UpdateManager.py:855
 msgid "Connecting..."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:871
+#: ../UpdateManager/UpdateManager.py:872
 msgid "You may not be able to check for updates or download new updates."
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:995
+#: ../UpdateManager/UpdateManager.py:996
 msgid "Could not initialize the package information"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:996
+#: ../UpdateManager/UpdateManager.py:997
 msgid ""
 "An unresolvable problem occurred while initializing the package "
 "information.\n"
@@ -1677,7 +1679,7 @@ msgid ""
 "following error message:\n"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:1025
+#: ../UpdateManager/UpdateManager.py:1026
 msgid ""
 "An unresolvable problem occurred while calculating the upgrade.\n"
 "\n"
@@ -1685,52 +1687,52 @@ msgid ""
 "following error message:"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:1050
+#: ../UpdateManager/UpdateManager.py:1051
 msgid " (New install)"
 msgstr ""
 
 #. TRANSLATORS: the b stands for Bytes
-#: ../UpdateManager/UpdateManager.py:1057
+#: ../UpdateManager/UpdateManager.py:1058
 #, python-format
 msgid "(Size: %s)"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:1059
+#: ../UpdateManager/UpdateManager.py:1060
 #, python-format
 msgid "From version %(old_version)s to %(new_version)s"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:1063
+#: ../UpdateManager/UpdateManager.py:1064
 #, python-format
 msgid "Version %s"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:1094 ../do-release-upgrade:107
+#: ../UpdateManager/UpdateManager.py:1095 ../do-release-upgrade:107
 msgid "Release upgrade not possible right now"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:1095 ../do-release-upgrade:108
+#: ../UpdateManager/UpdateManager.py:1096 ../do-release-upgrade:108
 #, c-format, python-format
 msgid ""
 "The release upgrade can not be performed currently, please try again later. "
 "The server reported: '%s'"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:1097 ../check-new-release-gtk:115
+#: ../UpdateManager/UpdateManager.py:1098 ../check-new-release-gtk:115
 msgid "Downloading the release upgrade tool"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:1104
+#: ../UpdateManager/UpdateManager.py:1105
 #, python-format
 msgid "<b>New Ubuntu release '%s' is available</b>"
 msgstr ""
 
 #. we assert a clean cache
-#: ../UpdateManager/UpdateManager.py:1143
+#: ../UpdateManager/UpdateManager.py:1144
 msgid "Software index is broken"
 msgstr ""
 
-#: ../UpdateManager/UpdateManager.py:1144
+#: ../UpdateManager/UpdateManager.py:1145
 msgid ""
 "It is impossible to install or remove any software. Please use the package "
 "manager \"Synaptic\" or run \"sudo apt-get install -f\" in a terminal to fix "

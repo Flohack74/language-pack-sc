@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: apport\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-07 14:12+0000\n"
+"POT-Creation-Date: 2012-03-09 16:22+0000\n"
 "PO-Revision-Date: 2010-08-01 10:24+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Sardinian <sc@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-08 10:19+0000\n"
-"X-Generator: Launchpad (build 14914)\n"
+"X-Launchpad-Export-Date: 2012-03-15 10:57+0000\n"
+"X-Generator: Launchpad (build 14933)\n"
 
 #: ../apport/ui.py:92
 msgid "This package does not seem to be installed correctly"
@@ -534,7 +534,7 @@ msgstr ""
 msgid "Ignore future problems of this program version"
 msgstr ""
 
-#: ../gtk/apport-gtk.ui.h:7 ../gtk/apport-gtk.py:155 ../gtk/apport-gtk.py:466
+#: ../gtk/apport-gtk.ui.h:7 ../gtk/apport-gtk.py:155 ../gtk/apport-gtk.py:468
 #: ../kde/apport-kde.py:243
 msgid "Show Details"
 msgstr ""
@@ -719,12 +719,12 @@ msgstr ""
 msgid "The application %s has closed unexpectedly."
 msgstr ""
 
-#: ../gtk/apport-gtk.py:203 ../gtk/apport-gtk.py:262 ../kde/apport-kde.py:196
+#: ../gtk/apport-gtk.py:203 ../gtk/apport-gtk.py:264 ../kde/apport-kde.py:196
 #: ../kde/apport-kde.py:323
 msgid "Relaunch"
 msgstr ""
 
-#: ../gtk/apport-gtk.py:470 ../kde/apport-kde.py:240
+#: ../gtk/apport-gtk.py:472 ../kde/apport-kde.py:240
 msgid "Hide Details"
 msgstr ""
 
