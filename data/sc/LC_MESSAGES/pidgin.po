@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pidgin\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-11 03:38+0000\n"
+"POT-Creation-Date: 2012-03-16 16:08+0000\n"
 "PO-Revision-Date: 2010-05-23 08:23+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Sardinian <sc@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
-"X-Launchpad-Export-Date: 2012-03-15 11:23+0000\n"
-"X-Generator: Launchpad (build 14933)\n"
+"X-Launchpad-Export-Date: 2012-03-19 12:57+0000\n"
+"X-Generator: Launchpad (build 14969)\n"
 
 #. Translators may want to transliterate the name.
 #. It is not to be translated.
@@ -178,8 +178,8 @@ msgstr ""
 #: ../libpurple/protocols/mxit/login.c:690
 #: ../libpurple/protocols/myspace/user.c:824
 #: ../libpurple/protocols/myspace/user.c:885
-#: ../libpurple/protocols/oscar/oscar.c:5251
-#: ../libpurple/protocols/oscar/peer.c:1066
+#: ../libpurple/protocols/oscar/oscar.c:5237
+#: ../libpurple/protocols/oscar/peer.c:1075
 #: ../libpurple/protocols/sametime/sametime.c:3472
 #: ../libpurple/protocols/sametime/sametime.c:3558
 #: ../libpurple/protocols/sametime/sametime.c:5457
@@ -209,12 +209,12 @@ msgstr ""
 #: ../pidgin/gtkaccount.c:1945 ../pidgin/gtkaccount.c:2480
 #: ../pidgin/gtkblist.c:706 ../pidgin/gtkblist.c:3583
 #: ../pidgin/gtkblist.c:7334 ../pidgin/gtkcertmgr.c:195
-#: ../pidgin/gtkdialogs.c:880 ../pidgin/gtkdialogs.c:1019
-#: ../pidgin/gtkdialogs.c:1111 ../pidgin/gtkdialogs.c:1131
-#: ../pidgin/gtkdialogs.c:1155 ../pidgin/gtkdialogs.c:1177
-#: ../pidgin/gtkdialogs.c:1225 ../pidgin/gtkdialogs.c:1266
-#: ../pidgin/gtkdialogs.c:1322 ../pidgin/gtkdialogs.c:1361
-#: ../pidgin/gtkdialogs.c:1388 ../pidgin/gtkimhtmltoolbar.c:451
+#: ../pidgin/gtkdialogs.c:881 ../pidgin/gtkdialogs.c:1020
+#: ../pidgin/gtkdialogs.c:1112 ../pidgin/gtkdialogs.c:1132
+#: ../pidgin/gtkdialogs.c:1156 ../pidgin/gtkdialogs.c:1178
+#: ../pidgin/gtkdialogs.c:1226 ../pidgin/gtkdialogs.c:1267
+#: ../pidgin/gtkdialogs.c:1323 ../pidgin/gtkdialogs.c:1362
+#: ../pidgin/gtkdialogs.c:1389 ../pidgin/gtkimhtmltoolbar.c:451
 #: ../pidgin/gtklog.c:324 ../pidgin/gtkplugin.c:308 ../pidgin/gtkpounce.c:1140
 #: ../pidgin/gtkprivacy.c:497 ../pidgin/gtkprivacy.c:513
 #: ../pidgin/gtkprivacy.c:538 ../pidgin/gtkprivacy.c:552
@@ -428,24 +428,24 @@ msgstr ""
 #: ../finch/gntblist.c:2929 ../finch/gntroomlist.c:300
 #: ../libpurple/protocols/jabber/jabber.c:1424
 #: ../libpurple/protocols/jabber/jabber.c:1428
-#: ../libpurple/protocols/msn/msn.c:529 ../libpurple/protocols/msn/msn.c:2432
-#: ../libpurple/protocols/msn/msn.c:2497 ../libpurple/protocols/msn/msn.c:2524
+#: ../libpurple/protocols/msn/msn.c:529 ../libpurple/protocols/msn/msn.c:2411
+#: ../libpurple/protocols/msn/msn.c:2476 ../libpurple/protocols/msn/msn.c:2503
 #: ../pidgin/gtkplugin.c:765 ../pidgin/gtkroomlist.c:740
-#: ../pidgin/plugins/disco/gtkdisco.c:552
+#: ../pidgin/plugins/disco/gtkdisco.c:554
 #: ../pidgin/plugins/gevolution/add_buddy_dialog.c:131
 #: ../pidgin/plugins/gevolution/assoc-buddy.c:122
 msgid "Name"
 msgstr ""
 
 #: ../finch/gntblist.c:794 ../finch/gntblist.c:1735
-#: ../libpurple/protocols/gg/gg.c:1988 ../libpurple/protocols/msn/msn.c:2258
+#: ../libpurple/protocols/gg/gg.c:1988 ../libpurple/protocols/msn/msn.c:2237
 #: ../libpurple/protocols/mxit/profile.c:173
 #: ../libpurple/protocols/silc/chat.c:612
 #: ../libpurple/protocols/silc10/chat.c:590
 #: ../libpurple/protocols/yahoo/yahoo_profile.c:704
 #: ../libpurple/protocols/zephyr/zephyr.c:797
-#: ../libpurple/protocols/zephyr/zephyr.c:1180 ../pidgin/gtkdialogs.c:1130
-#: ../pidgin/gtkdialogs.c:1154 ../pidgin/gtkdialogs.c:1176
+#: ../libpurple/protocols/zephyr/zephyr.c:1180 ../pidgin/gtkdialogs.c:1131
+#: ../pidgin/gtkdialogs.c:1155 ../pidgin/gtkdialogs.c:1177
 #: ../pidgin/gtkrequest.c:308
 msgid "Alias"
 msgstr ""
@@ -608,7 +608,7 @@ msgstr ""
 #: ../libpurple/protocols/jabber/jabber.c:2415
 #: ../libpurple/protocols/jabber/jabber.c:2431
 #: ../libpurple/protocols/jabber/jabber.c:2445
-#: ../libpurple/protocols/msn/msn.c:2265 ../libpurple/protocols/msn/msn.c:2435
+#: ../libpurple/protocols/msn/msn.c:2244 ../libpurple/protocols/msn/msn.c:2414
 #: ../libpurple/protocols/silc/buddy.c:1550
 #: ../libpurple/protocols/silc/ops.c:1019
 #: ../libpurple/protocols/silc/ops.c:1202
@@ -634,7 +634,7 @@ msgstr ""
 #: ../libpurple/protocols/oscar/userinfo.c:508
 #: ../libpurple/protocols/yahoo/libymsg.c:3874
 #: ../libpurple/protocols/yahoo/yahoo_profile.c:709 ../pidgin/gtkblist.c:3832
-#: ../pidgin/gtkblist.c:4287 ../pidgin/gtkprefs.c:2692
+#: ../pidgin/gtkblist.c:4287 ../pidgin/gtkprefs.c:2709
 msgid "Idle"
 msgstr ""
 
@@ -690,7 +690,7 @@ msgstr ""
 #: ../libpurple/protocols/mxit/login.c:365
 #: ../libpurple/protocols/myspace/user.c:823
 #: ../libpurple/protocols/myspace/user.c:884
-#: ../libpurple/protocols/oscar/oscar.c:5250
+#: ../libpurple/protocols/oscar/oscar.c:5236
 #: ../libpurple/protocols/silc/buddy.c:458
 #: ../libpurple/protocols/silc/buddy.c:1198
 #: ../libpurple/protocols/silc/chat.c:451
@@ -712,18 +712,18 @@ msgstr ""
 #: ../libpurple/protocols/yahoo/libymsg.c:4357
 #: ../libpurple/protocols/yahoo/yahoo_aliases.c:588
 #: ../libpurple/protocols/yahoo/yahoo_aliases.c:599 ../pidgin/gtkblist.c:3582
-#: ../pidgin/gtkcertmgr.c:193 ../pidgin/gtkdialogs.c:879
-#: ../pidgin/gtkdialogs.c:1018 ../pidgin/gtkdialogs.c:1110
+#: ../pidgin/gtkcertmgr.c:193 ../pidgin/gtkdialogs.c:880
+#: ../pidgin/gtkdialogs.c:1019 ../pidgin/gtkdialogs.c:1111
 #: ../pidgin/gtkrequest.c:300 ../pidgin/gtkutils.c:1621
 #: ../pidgin/gtkutils.c:1641
 msgid "OK"
 msgstr ""
 
-#: ../finch/gntblist.c:2807 ../pidgin/gtkdialogs.c:874
+#: ../finch/gntblist.c:2807 ../pidgin/gtkdialogs.c:875
 msgid "New Instant Message"
 msgstr ""
 
-#: ../finch/gntblist.c:2809 ../pidgin/gtkdialogs.c:876
+#: ../finch/gntblist.c:2809 ../pidgin/gtkdialogs.c:877
 msgid ""
 "Please enter the username or alias of the person you would like to IM."
 msgstr ""
@@ -744,7 +744,7 @@ msgstr ""
 msgid "Join"
 msgstr "Partetzipa"
 
-#: ../finch/gntblist.c:2945 ../pidgin/gtkdialogs.c:1107
+#: ../finch/gntblist.c:2945 ../pidgin/gtkdialogs.c:1108
 msgid ""
 "Please enter the username or alias of the person whose log you would like to "
 "view."
@@ -813,7 +813,7 @@ msgstr ""
 #: ../libpurple/protocols/silc/util.c:560
 #: ../libpurple/protocols/silc10/silc.c:704
 #: ../libpurple/protocols/silc10/util.c:553
-#: ../pidgin/plugins/disco/gtkdisco.c:480
+#: ../pidgin/plugins/disco/gtkdisco.c:482
 msgid "Chat"
 msgstr ""
 
@@ -1520,7 +1520,7 @@ msgstr ""
 #. Back to instant-apply! I win!  BU-HAHAHA!
 #. Create the window
 #: ../finch/gntplugin.c:526 ../finch/gntplugin.c:533 ../finch/gntprefs.c:265
-#: ../finch/gntui.c:108 ../pidgin/gtkprefs.c:2813
+#: ../finch/gntui.c:108 ../pidgin/gtkprefs.c:2830
 msgid "Preferences"
 msgstr ""
 
@@ -1706,12 +1706,12 @@ msgstr ""
 msgid "Based on keyboard use"
 msgstr ""
 
-#: ../finch/gntprefs.c:95 ../pidgin/gtkprefs.c:2697
+#: ../finch/gntprefs.c:95 ../pidgin/gtkprefs.c:2714
 msgid "From last sent message"
 msgstr ""
 
 #: ../finch/gntprefs.c:97 ../pidgin/gtkprefs.c:1349 ../pidgin/gtkprefs.c:1357
-#: ../pidgin/gtkprefs.c:2696 ../pidgin/gtkprefs.c:2732
+#: ../pidgin/gtkprefs.c:2713 ../pidgin/gtkprefs.c:2749
 #: ../pidgin/plugins/win32/winprefs/winprefs.c:310
 msgid "Never"
 msgstr ""
@@ -1760,12 +1760,12 @@ msgstr ""
 msgid "Change status to"
 msgstr ""
 
-#: ../finch/gntprefs.c:260 ../pidgin/gtkprefs.c:1469 ../pidgin/gtkprefs.c:2784
+#: ../finch/gntprefs.c:260 ../pidgin/gtkprefs.c:1469 ../pidgin/gtkprefs.c:2801
 msgid "Conversations"
 msgstr ""
 
 #: ../finch/gntprefs.c:261 ../finch/plugins/gnthistory.c:155
-#: ../pidgin/gtkprefs.c:2208 ../pidgin/gtkprefs.c:2785
+#: ../pidgin/gtkprefs.c:2225 ../pidgin/gtkprefs.c:2802
 msgid "Logging"
 msgstr ""
 
@@ -1862,8 +1862,8 @@ msgstr ""
 #: ../finch/gntsound.c:739 ../finch/gntsound.c:825 ../pidgin/gtkpounce.c:178
 #: ../pidgin/gtkpounce.c:189 ../pidgin/gtkpounce.c:318
 #: ../pidgin/gtkpounce.c:695 ../pidgin/gtkpounce.c:957
-#: ../pidgin/gtkprefs.c:941 ../pidgin/gtkprefs.c:2334
-#: ../pidgin/gtkprefs.c:2432 ../pidgin/gtkprefs.c:2629
+#: ../pidgin/gtkprefs.c:941 ../pidgin/gtkprefs.c:2351
+#: ../pidgin/gtkprefs.c:2449 ../pidgin/gtkprefs.c:2646
 msgid "(default)"
 msgstr ""
 
@@ -1879,7 +1879,7 @@ msgstr ""
 msgid "Profiles"
 msgstr ""
 
-#: ../finch/gntsound.c:977 ../pidgin/gtkprefs.c:2496
+#: ../finch/gntsound.c:977 ../pidgin/gtkprefs.c:2513
 msgid "Automatic"
 msgstr ""
 
@@ -1887,7 +1887,7 @@ msgstr ""
 msgid "Console Beep"
 msgstr ""
 
-#: ../finch/gntsound.c:981 ../pidgin/gtkprefs.c:2500
+#: ../finch/gntsound.c:981 ../pidgin/gtkprefs.c:2517
 msgid "Command"
 msgstr ""
 
@@ -1911,7 +1911,7 @@ msgid ""
 msgstr ""
 
 #. Sound options
-#: ../finch/gntsound.c:1004 ../pidgin/gtkprefs.c:2486
+#: ../finch/gntsound.c:1004 ../pidgin/gtkprefs.c:2503
 msgid "Sound Options"
 msgstr ""
 
@@ -1920,18 +1920,18 @@ msgid "Sounds when conversation has focus"
 msgstr ""
 
 #: ../finch/gntsound.c:1013 ../pidgin/gtkprefs.c:1347
-#: ../pidgin/gtkprefs.c:1359 ../pidgin/gtkprefs.c:2531
+#: ../pidgin/gtkprefs.c:1359 ../pidgin/gtkprefs.c:2548
 #: ../pidgin/plugins/timestamp_format.c:58
 #: ../pidgin/plugins/timestamp_format.c:67
 #: ../pidgin/plugins/win32/winprefs/winprefs.c:311
 msgid "Always"
 msgstr ""
 
-#: ../finch/gntsound.c:1014 ../pidgin/gtkprefs.c:2529
+#: ../finch/gntsound.c:1014 ../pidgin/gtkprefs.c:2546
 msgid "Only when available"
 msgstr ""
 
-#: ../finch/gntsound.c:1015 ../pidgin/gtkprefs.c:2530
+#: ../finch/gntsound.c:1015 ../pidgin/gtkprefs.c:2547
 msgid "Only when not available"
 msgstr ""
 
@@ -1940,12 +1940,12 @@ msgid "Volume(0-100):"
 msgstr ""
 
 #. Sound events
-#: ../finch/gntsound.c:1041 ../pidgin/gtkprefs.c:2558
+#: ../finch/gntsound.c:1041 ../pidgin/gtkprefs.c:2575
 msgid "Sound Events"
 msgstr ""
 
 #: ../finch/gntsound.c:1043 ../pidgin/gtknotify.c:1609
-#: ../pidgin/gtkprefs.c:2612
+#: ../pidgin/gtkprefs.c:2629
 msgid "Event"
 msgstr ""
 
@@ -2021,18 +2021,18 @@ msgstr ""
 #: ../libpurple/protocols/novell/novell.c:2969
 #: ../libpurple/protocols/novell/novell.c:2975
 #: ../libpurple/protocols/novell/novell.c:2981
-#: ../libpurple/protocols/oscar/oscar.c:4794
-#: ../libpurple/protocols/oscar/oscar.c:4803
-#: ../libpurple/protocols/oscar/oscar.c:4811
-#: ../libpurple/protocols/oscar/oscar.c:4819
-#: ../libpurple/protocols/oscar/oscar.c:4827
-#: ../libpurple/protocols/oscar/oscar.c:4835
-#: ../libpurple/protocols/oscar/oscar.c:4844
-#: ../libpurple/protocols/oscar/oscar.c:4852
-#: ../libpurple/protocols/oscar/oscar.c:4859
+#: ../libpurple/protocols/oscar/oscar.c:4780
+#: ../libpurple/protocols/oscar/oscar.c:4789
+#: ../libpurple/protocols/oscar/oscar.c:4797
+#: ../libpurple/protocols/oscar/oscar.c:4805
+#: ../libpurple/protocols/oscar/oscar.c:4813
+#: ../libpurple/protocols/oscar/oscar.c:4821
+#: ../libpurple/protocols/oscar/oscar.c:4830
+#: ../libpurple/protocols/oscar/oscar.c:4838
+#: ../libpurple/protocols/oscar/oscar.c:4845
+#: ../libpurple/protocols/oscar/oscar.c:4857
+#: ../libpurple/protocols/oscar/oscar.c:4864
 #: ../libpurple/protocols/oscar/oscar.c:4871
-#: ../libpurple/protocols/oscar/oscar.c:4878
-#: ../libpurple/protocols/oscar/oscar.c:4885
 #: ../libpurple/protocols/sametime/sametime.c:3370
 #: ../libpurple/protocols/sametime/sametime.c:3376
 #: ../libpurple/protocols/sametime/sametime.c:3382
@@ -2098,7 +2098,7 @@ msgstr ""
 msgid "Certificates"
 msgstr ""
 
-#: ../finch/gntui.c:107 ../pidgin/gtkprefs.c:2789
+#: ../finch/gntui.c:107 ../pidgin/gtkprefs.c:2806
 msgid "Sounds"
 msgstr ""
 
@@ -2277,7 +2277,7 @@ msgstr ""
 #: ../libpurple/protocols/jabber/jutil.c:659
 #: ../libpurple/protocols/mxit/roster.c:53
 #: ../libpurple/protocols/novell/novell.c:2856
-#: ../libpurple/protocols/oscar/oscar.c:4717
+#: ../libpurple/protocols/oscar/oscar.c:4703
 #: ../libpurple/protocols/oscar/userinfo.c:279
 #: ../libpurple/protocols/yahoo/libymsg.c:3876 ../libpurple/status.c:162
 #: ../pidgin/gtkblist.c:3877 ../pidgin/gtkblist.c:4264
@@ -2420,10 +2420,10 @@ msgstr ""
 #: ../libpurple/account.c:2207 ../libpurple/protocols/gg/gg.c:1179
 #: ../libpurple/protocols/jabber/buddy.c:778
 #: ../libpurple/protocols/jabber/jutil.c:676
-#: ../libpurple/protocols/msn/oim.c:688
+#: ../libpurple/protocols/msn/oim.c:731
 #: ../libpurple/protocols/mxit/profile.c:204
 #: ../libpurple/protocols/novell/novell.c:2859 ../pidgin/gtkft.c:162
-#: ../pidgin/plugins/disco/gtkdisco.c:468 ../pidgin/plugins/vvconfig.c:145
+#: ../pidgin/plugins/disco/gtkdisco.c:470 ../pidgin/plugins/vvconfig.c:145
 msgid "Unknown"
 msgstr ""
 
@@ -3201,23 +3201,23 @@ msgstr ""
 #: ../libpurple/protocols/mxit/actions.c:483
 #: ../libpurple/protocols/oscar/authorization.c:99
 #: ../libpurple/protocols/oscar/oscar.c:1224
-#: ../libpurple/protocols/oscar/oscar.c:4968
-#: ../libpurple/protocols/oscar/oscar.c:5025
-#: ../libpurple/protocols/oscar/oscar.c:5308
-#: ../libpurple/protocols/oscar/oscar.c:5365 ../libpurple/request.h:1498
+#: ../libpurple/protocols/oscar/oscar.c:4954
+#: ../libpurple/protocols/oscar/oscar.c:5011
+#: ../libpurple/protocols/oscar/oscar.c:5294
+#: ../libpurple/protocols/oscar/oscar.c:5351 ../libpurple/request.h:1498
 #: ../libpurple/request.h:1508 ../libpurple/request.h:1521
 msgid "_Cancel"
 msgstr ""
 
-#: ../libpurple/plugins/autoaccept.c:208 ../libpurple/plugins/autoaccept.c:274
+#: ../libpurple/plugins/autoaccept.c:208 ../libpurple/plugins/autoaccept.c:278
 msgid "Ask"
 msgstr ""
 
-#: ../libpurple/plugins/autoaccept.c:209 ../libpurple/plugins/autoaccept.c:275
+#: ../libpurple/plugins/autoaccept.c:209 ../libpurple/plugins/autoaccept.c:279
 msgid "Auto Accept"
 msgstr ""
 
-#: ../libpurple/plugins/autoaccept.c:210 ../libpurple/plugins/autoaccept.c:276
+#: ../libpurple/plugins/autoaccept.c:210 ../libpurple/plugins/autoaccept.c:280
 msgid "Auto Reject"
 msgstr ""
 
@@ -3226,34 +3226,34 @@ msgid "Autoaccept File Transfers..."
 msgstr ""
 
 #. XXX: Is there a better way than this? There really should be.
-#: ../libpurple/plugins/autoaccept.c:266
+#: ../libpurple/plugins/autoaccept.c:270
 msgid ""
 "Path to save the files in\n"
 "(Please provide the full path)"
 msgstr ""
 
-#: ../libpurple/plugins/autoaccept.c:271
+#: ../libpurple/plugins/autoaccept.c:275
 msgid ""
 "When a file-transfer request arrives from a user who is\n"
 "*not* on your buddy list:"
 msgstr ""
 
-#: ../libpurple/plugins/autoaccept.c:280
+#: ../libpurple/plugins/autoaccept.c:284
 msgid ""
 "Notify with a popup when an autoaccepted file transfer is complete\n"
 "(only when there's no conversation with the sender)"
 msgstr ""
 
-#: ../libpurple/plugins/autoaccept.c:285
+#: ../libpurple/plugins/autoaccept.c:289
 msgid "Create a new directory for each user"
 msgstr ""
 
-#: ../libpurple/plugins/autoaccept.c:289
+#: ../libpurple/plugins/autoaccept.c:293
 msgid "Escape the filenames"
 msgstr ""
 
-#: ../libpurple/plugins/buddynote.c:46 ../libpurple/protocols/msn/msn.c:2508
-#: ../libpurple/protocols/msn/msn.c:2538
+#: ../libpurple/plugins/buddynote.c:46 ../libpurple/protocols/msn/msn.c:2487
+#: ../libpurple/protocols/msn/msn.c:2517
 msgid "Notes"
 msgstr ""
 
@@ -4209,7 +4209,7 @@ msgid "Year of birth"
 msgstr ""
 
 #. gender
-#: ../libpurple/protocols/gg/gg.c:598 ../libpurple/protocols/msn/msn.c:2437
+#: ../libpurple/protocols/gg/gg.c:598 ../libpurple/protocols/msn/msn.c:2416
 #: ../libpurple/protocols/mxit/actions.c:242
 #: ../libpurple/protocols/mxit/login.c:349
 #: ../libpurple/protocols/mxit/profile.c:184
@@ -4355,7 +4355,7 @@ msgstr ""
 #: ../libpurple/protocols/jabber/jutil.c:664
 #: ../libpurple/protocols/mxit/roster.c:57
 #: ../libpurple/protocols/oscar/oscar.c:159
-#: ../libpurple/protocols/oscar/oscar.c:4877
+#: ../libpurple/protocols/oscar/oscar.c:4863
 #: ../libpurple/protocols/sametime/sametime.c:3381
 msgid "Do Not Disturb"
 msgstr ""
@@ -4374,7 +4374,7 @@ msgstr ""
 #: ../libpurple/protocols/silc10/buddy.c:1496
 #: ../libpurple/protocols/yahoo/libymsg.c:4756
 #: ../libpurple/protocols/yahoo/libymsg.c:4843 ../libpurple/status.c:166
-#: ../pidgin/gtkdocklet.c:554 ../pidgin/gtkprefs.c:2728
+#: ../pidgin/gtkdocklet.c:554 ../pidgin/gtkprefs.c:2745
 #: ../pidgin/gtkstatusbox.c:1097 ../pidgin/plugins/themeedit-icon.c:64
 msgid "Away"
 msgstr ""
@@ -4555,26 +4555,26 @@ msgid "GG server"
 msgstr ""
 
 #: ../libpurple/protocols/gg/gg.c:2805
-#: ../libpurple/protocols/oscar/oscar.c:5773
+#: ../libpurple/protocols/oscar/oscar.c:5759
 msgid "Don't use encryption"
 msgstr ""
 
 #: ../libpurple/protocols/gg/gg.c:2806
 #: ../libpurple/protocols/jabber/libxmpp.c:277
-#: ../libpurple/protocols/oscar/oscar.c:5771
+#: ../libpurple/protocols/oscar/oscar.c:5757
 msgid "Use encryption if available"
 msgstr ""
 
 #. TODO
 #: ../libpurple/protocols/gg/gg.c:2810
 #: ../libpurple/protocols/jabber/libxmpp.c:276
-#: ../libpurple/protocols/oscar/oscar.c:5772
+#: ../libpurple/protocols/oscar/oscar.c:5758
 msgid "Require encryption"
 msgstr ""
 
 #: ../libpurple/protocols/gg/gg.c:2813
 #: ../libpurple/protocols/jabber/libxmpp.c:286
-#: ../libpurple/protocols/oscar/oscar.c:5797
+#: ../libpurple/protocols/oscar/oscar.c:5783
 msgid "Connection security"
 msgstr ""
 
@@ -4779,8 +4779,8 @@ msgstr ""
 
 #. set up account ID as user:server
 #: ../libpurple/protocols/irc/irc.c:1049 ../libpurple/protocols/irc/msgs.c:377
-#: ../libpurple/protocols/msn/msn.c:3046
-#: ../libpurple/protocols/oscar/oscar.c:5785
+#: ../libpurple/protocols/msn/msn.c:3025
+#: ../libpurple/protocols/oscar/oscar.c:5771
 #: ../libpurple/protocols/sametime/sametime.c:5784
 #: ../libpurple/protocols/silc/ops.c:1265
 #: ../libpurple/protocols/silc/ops.c:1359
@@ -4791,8 +4791,8 @@ msgid "Server"
 msgstr ""
 
 #. port to connect to
-#: ../libpurple/protocols/irc/irc.c:1052 ../libpurple/protocols/msn/msn.c:3051
-#: ../libpurple/protocols/oscar/oscar.c:5788
+#: ../libpurple/protocols/irc/irc.c:1052 ../libpurple/protocols/msn/msn.c:3030
+#: ../libpurple/protocols/oscar/oscar.c:5774
 #: ../libpurple/protocols/sametime/sametime.c:5793
 #: ../libpurple/protocols/silc/silc.c:2197
 #: ../libpurple/protocols/silc10/silc.c:1910
@@ -5530,7 +5530,7 @@ msgstr ""
 
 #: ../libpurple/protocols/jabber/buddy.c:365
 #: ../libpurple/protocols/jabber/buddy.c:1163
-#: ../libpurple/protocols/msn/msn.c:2525
+#: ../libpurple/protocols/msn/msn.c:2504
 #: ../libpurple/protocols/novell/novell.c:1497
 #: ../libpurple/protocols/silc/ops.c:1027
 #: ../libpurple/protocols/silc10/ops.c:1044
@@ -5546,7 +5546,7 @@ msgstr ""
 #. birthday (required)
 #: ../libpurple/protocols/jabber/buddy.c:367
 #: ../libpurple/protocols/jabber/buddy.c:1053
-#: ../libpurple/protocols/msn/msn.c:2506
+#: ../libpurple/protocols/msn/msn.c:2485
 #: ../libpurple/protocols/mxit/actions.c:236
 #: ../libpurple/protocols/mxit/login.c:343
 #: ../libpurple/protocols/mxit/profile.c:181
@@ -5557,7 +5557,7 @@ msgstr ""
 #: ../libpurple/protocols/jabber/buddy.c:368
 #: ../libpurple/protocols/jabber/buddy.c:1167
 #: ../libpurple/protocols/jabber/chat.c:911 ../pidgin/gtkblist.c:3889
-#: ../pidgin/gtkplugin.c:590 ../pidgin/plugins/disco/gtkdisco.c:569
+#: ../pidgin/gtkplugin.c:590 ../pidgin/plugins/disco/gtkdisco.c:571
 msgid "Description"
 msgstr ""
 
@@ -5988,7 +5988,7 @@ msgstr ""
 #: ../libpurple/protocols/jabber/jabber.c:1466
 #: ../libpurple/protocols/jabber/jabber.c:1477
 #: ../pidgin/plugins/disco/gtkdisco.c:307
-#: ../pidgin/plugins/disco/gtkdisco.c:686
+#: ../pidgin/plugins/disco/gtkdisco.c:688
 msgid "Register"
 msgstr ""
 
@@ -6042,7 +6042,7 @@ msgstr ""
 #: ../libpurple/protocols/jabber/jabber.c:2701
 #: ../libpurple/protocols/jabber/jabber.c:2744
 #: ../libpurple/protocols/jabber/jabber.c:2782
-#: ../libpurple/protocols/oscar/oscar.c:4715
+#: ../libpurple/protocols/oscar/oscar.c:4701
 #: ../libpurple/protocols/oscar/userinfo.c:272
 msgid "Not Authorized"
 msgstr ""
@@ -6123,12 +6123,12 @@ msgstr ""
 
 #: ../libpurple/protocols/jabber/jabber.c:2383
 #: ../libpurple/protocols/mxit/roster.c:86
-#: ../libpurple/protocols/oscar/oscar.c:4896
+#: ../libpurple/protocols/oscar/oscar.c:4882
 msgid "Mood Name"
 msgstr ""
 
 #: ../libpurple/protocols/jabber/jabber.c:2384
-#: ../libpurple/protocols/oscar/oscar.c:4897
+#: ../libpurple/protocols/oscar/oscar.c:4883
 msgid "Mood Comment"
 msgstr ""
 
@@ -6202,7 +6202,7 @@ msgid "Please enter your new password"
 msgstr ""
 
 #: ../libpurple/protocols/jabber/jabber.c:2570
-#: ../libpurple/protocols/oscar/oscar.c:5516
+#: ../libpurple/protocols/oscar/oscar.c:5502
 #: ../libpurple/protocols/silc/silc.c:1333
 #: ../libpurple/protocols/silc10/silc.c:1029
 #: ../libpurple/protocols/yahoo/libymsg.c:4211
@@ -6212,7 +6212,7 @@ msgstr ""
 
 #. if (js->protocol_options & CHANGE_PASSWORD) {
 #: ../libpurple/protocols/jabber/jabber.c:2575
-#: ../libpurple/protocols/oscar/oscar.c:5527
+#: ../libpurple/protocols/oscar/oscar.c:5513
 #: ../libpurple/protocols/silc/silc.c:1329
 #: ../libpurple/protocols/silc10/silc.c:1025
 msgid "Change Password..."
@@ -7264,20 +7264,20 @@ msgstr ""
 #. only notify the user about problems adding to the friends list
 #. * maybe we should do something else for other lists, but it probably
 #. * won't cause too many problems if we just ignore it
-#: ../libpurple/protocols/msn/contact.c:1046
-#: ../libpurple/protocols/msn/contact.c:1142
+#: ../libpurple/protocols/msn/contact.c:1067
+#: ../libpurple/protocols/msn/contact.c:1163
 #: ../libpurple/protocols/msn/userlist.c:522
 #, c-format
 msgid "Unable to add \"%s\"."
 msgstr ""
 
-#: ../libpurple/protocols/msn/contact.c:1047
-#: ../libpurple/protocols/msn/contact.c:1143
+#: ../libpurple/protocols/msn/contact.c:1068
+#: ../libpurple/protocols/msn/contact.c:1164
 msgid "Buddy Add error"
 msgstr ""
 
-#: ../libpurple/protocols/msn/contact.c:1048
-#: ../libpurple/protocols/msn/contact.c:1144
+#: ../libpurple/protocols/msn/contact.c:1069
+#: ../libpurple/protocols/msn/contact.c:1165
 msgid "The username specified does not exist."
 msgstr ""
 
@@ -7816,31 +7816,31 @@ msgid ""
 "SSL support is needed for MSN. Please install a supported SSL library."
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:1803
+#: ../libpurple/protocols/msn/msn.c:1782
 #, c-format
 msgid ""
 "Unable to add the buddy %s because the username is invalid.  Usernames must "
 "be valid email addresses."
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:1805
+#: ../libpurple/protocols/msn/msn.c:1784
 #: ../libpurple/protocols/oscar/oscar.c:3709
 #: ../libpurple/protocols/oscar/oscar.c:4180
 #: ../libpurple/protocols/oscar/oscar.c:4195
 msgid "Unable to Add"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2365 ../libpurple/protocols/msn/msn.c:2707
+#: ../libpurple/protocols/msn/msn.c:2344 ../libpurple/protocols/msn/msn.c:2686
 #: ../libpurple/protocols/yahoo/yahoo_profile.c:808
 #: ../libpurple/protocols/yahoo/yahoo_profile.c:1199
 msgid "Error retrieving profile"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2429 ../pidgin/plugins/convcolors.c:387
+#: ../libpurple/protocols/msn/msn.c:2408 ../pidgin/plugins/convcolors.c:387
 msgid "General"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2436
+#: ../libpurple/protocols/msn/msn.c:2415
 #: ../libpurple/protocols/mxit/profile.c:296
 #: ../libpurple/protocols/myspace/user.c:127
 #: ../libpurple/protocols/oscar/userinfo.c:454
@@ -7848,12 +7848,12 @@ msgstr ""
 msgid "Age"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2438
+#: ../libpurple/protocols/msn/msn.c:2417
 #: ../libpurple/protocols/yahoo/yahoo_profile.c:1095
 msgid "Occupation"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2439
+#: ../libpurple/protocols/msn/msn.c:2418
 #: ../libpurple/protocols/myspace/user.c:135
 #: ../libpurple/protocols/novell/novell.c:1491
 #: ../libpurple/protocols/yahoo/yahoo_profile.c:1075
@@ -7862,194 +7862,194 @@ msgstr ""
 msgid "Location"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2444 ../libpurple/protocols/msn/msn.c:2636
-#: ../libpurple/protocols/msn/msn.c:2642 ../libpurple/protocols/msn/msn.c:2649
+#: ../libpurple/protocols/msn/msn.c:2423 ../libpurple/protocols/msn/msn.c:2615
+#: ../libpurple/protocols/msn/msn.c:2621 ../libpurple/protocols/msn/msn.c:2628
 msgid "Hobbies and Interests"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2450 ../libpurple/protocols/msn/msn.c:2570
-#: ../libpurple/protocols/msn/msn.c:2576 ../libpurple/protocols/msn/msn.c:2583
-#: ../libpurple/protocols/msn/msn.c:2591 ../libpurple/protocols/msn/msn.c:2598
+#: ../libpurple/protocols/msn/msn.c:2429 ../libpurple/protocols/msn/msn.c:2549
+#: ../libpurple/protocols/msn/msn.c:2555 ../libpurple/protocols/msn/msn.c:2562
+#: ../libpurple/protocols/msn/msn.c:2570 ../libpurple/protocols/msn/msn.c:2577
 msgid "A Little About Me"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2467
+#: ../libpurple/protocols/msn/msn.c:2446
 msgid "Social"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2469
+#: ../libpurple/protocols/msn/msn.c:2448
 #: ../libpurple/protocols/yahoo/yahoo_profile.c:1085
 msgid "Marital Status"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2470
+#: ../libpurple/protocols/msn/msn.c:2449
 msgid "Interests"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2471
+#: ../libpurple/protocols/msn/msn.c:2450
 msgid "Pets"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2472
+#: ../libpurple/protocols/msn/msn.c:2451
 msgid "Hometown"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2473
+#: ../libpurple/protocols/msn/msn.c:2452
 msgid "Places Lived"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2474
+#: ../libpurple/protocols/msn/msn.c:2453
 msgid "Fashion"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2475
+#: ../libpurple/protocols/msn/msn.c:2454
 msgid "Humor"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2476
+#: ../libpurple/protocols/msn/msn.c:2455
 msgid "Music"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2477 ../libpurple/protocols/msn/msn.c:2658
-#: ../libpurple/protocols/msn/msn.c:2664
+#: ../libpurple/protocols/msn/msn.c:2456 ../libpurple/protocols/msn/msn.c:2637
+#: ../libpurple/protocols/msn/msn.c:2643
 #: ../libpurple/protocols/yahoo/yahoo_profile.c:1137
 msgid "Favorite Quote"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2494
+#: ../libpurple/protocols/msn/msn.c:2473
 msgid "Contact Info"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2495
+#: ../libpurple/protocols/msn/msn.c:2474
 msgid "Personal"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2498
+#: ../libpurple/protocols/msn/msn.c:2477
 msgid "Significant Other"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2499
+#: ../libpurple/protocols/msn/msn.c:2478
 msgid "Home Phone"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2500
+#: ../libpurple/protocols/msn/msn.c:2479
 msgid "Home Phone 2"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2501
+#: ../libpurple/protocols/msn/msn.c:2480
 #: ../libpurple/protocols/oscar/userinfo.c:464
 msgid "Home Address"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2502
+#: ../libpurple/protocols/msn/msn.c:2481
 msgid "Personal Mobile"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2503
+#: ../libpurple/protocols/msn/msn.c:2482
 msgid "Home Fax"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2504
+#: ../libpurple/protocols/msn/msn.c:2483
 msgid "Personal Email"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2505
+#: ../libpurple/protocols/msn/msn.c:2484
 msgid "Personal IM"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2507
+#: ../libpurple/protocols/msn/msn.c:2486
 msgid "Anniversary"
 msgstr ""
 
 #. Business
-#: ../libpurple/protocols/msn/msn.c:2523
+#: ../libpurple/protocols/msn/msn.c:2502
 msgid "Work"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2526
+#: ../libpurple/protocols/msn/msn.c:2505
 #: ../libpurple/protocols/oscar/userinfo.c:482
 msgid "Company"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2527
+#: ../libpurple/protocols/msn/msn.c:2506
 #: ../libpurple/protocols/novell/novell.c:1493
 msgid "Department"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2528
+#: ../libpurple/protocols/msn/msn.c:2507
 msgid "Profession"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2529
+#: ../libpurple/protocols/msn/msn.c:2508
 msgid "Work Phone"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2530
+#: ../libpurple/protocols/msn/msn.c:2509
 msgid "Work Phone 2"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2531
+#: ../libpurple/protocols/msn/msn.c:2510
 #: ../libpurple/protocols/oscar/userinfo.c:472
 msgid "Work Address"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2532
+#: ../libpurple/protocols/msn/msn.c:2511
 msgid "Work Mobile"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2533
+#: ../libpurple/protocols/msn/msn.c:2512
 msgid "Work Pager"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2534
+#: ../libpurple/protocols/msn/msn.c:2513
 msgid "Work Fax"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2535
+#: ../libpurple/protocols/msn/msn.c:2514
 msgid "Work Email"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2536
+#: ../libpurple/protocols/msn/msn.c:2515
 msgid "Work IM"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2537
+#: ../libpurple/protocols/msn/msn.c:2516
 msgid "Start Date"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2607 ../libpurple/protocols/msn/msn.c:2613
-#: ../libpurple/protocols/msn/msn.c:2620 ../libpurple/protocols/msn/msn.c:2627
+#: ../libpurple/protocols/msn/msn.c:2586 ../libpurple/protocols/msn/msn.c:2592
+#: ../libpurple/protocols/msn/msn.c:2599 ../libpurple/protocols/msn/msn.c:2606
 msgid "Favorite Things"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2672
+#: ../libpurple/protocols/msn/msn.c:2651
 msgid "Last Updated"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2683
+#: ../libpurple/protocols/msn/msn.c:2662
 #: ../libpurple/protocols/silc/ops.c:1043
 #: ../libpurple/protocols/silc10/ops.c:1060
 msgid "Homepage"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2709
+#: ../libpurple/protocols/msn/msn.c:2688
 msgid "The user has not created a public profile."
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2710
+#: ../libpurple/protocols/msn/msn.c:2689
 msgid ""
 "MSN reported not being able to find the user's profile. This either means "
 "that the user does not exist, or that the user exists but has not created a "
 "public profile."
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2714
+#: ../libpurple/protocols/msn/msn.c:2693
 msgid ""
 "Could not find any information in the user's profile. The user most likely "
 "does not exist."
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:2722
+#: ../libpurple/protocols/msn/msn.c:2701
 #: ../libpurple/protocols/myspace/user.c:194
 #: ../libpurple/protocols/myspace/user.c:197
 #: ../libpurple/protocols/oscar/userinfo.c:544
@@ -8066,80 +8066,80 @@ msgstr ""
 #. *< name
 #. *< version
 #. *< summary
-#: ../libpurple/protocols/msn/msn.c:3020 ../libpurple/protocols/msn/msn.c:3021
+#: ../libpurple/protocols/msn/msn.c:2999 ../libpurple/protocols/msn/msn.c:3000
 msgid "Windows Live Messenger Protocol Plugin"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:3055
+#: ../libpurple/protocols/msn/msn.c:3034
 msgid "Use HTTP Method"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:3060
+#: ../libpurple/protocols/msn/msn.c:3039
 msgid "HTTP Method Server"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:3065
+#: ../libpurple/protocols/msn/msn.c:3044
 msgid "Show custom smileys"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:3070
+#: ../libpurple/protocols/msn/msn.c:3049
 msgid "Allow direct connections"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:3075
+#: ../libpurple/protocols/msn/msn.c:3054
 msgid "Allow connecting from multiple locations"
 msgstr ""
 
-#: ../libpurple/protocols/msn/msn.c:3083
+#: ../libpurple/protocols/msn/msn.c:3062
 msgid "nudge: nudge a user to get their attention"
 msgstr ""
 
-#: ../libpurple/protocols/msn/nexus.c:358
+#: ../libpurple/protocols/msn/nexus.c:357
 msgid "Windows Live ID authentication:Unable to connect"
 msgstr ""
 
-#: ../libpurple/protocols/msn/nexus.c:365
+#: ../libpurple/protocols/msn/nexus.c:364
 msgid "Windows Live ID authentication:Invalid response"
 msgstr ""
 
-#: ../libpurple/protocols/msn/notification.c:819
+#: ../libpurple/protocols/msn/notification.c:824
 msgid "The following users are missing from your addressbook"
 msgstr ""
 
-#: ../libpurple/protocols/msn/notification.c:827
-#: ../libpurple/protocols/msn/notification.c:874
+#: ../libpurple/protocols/msn/notification.c:832
+#: ../libpurple/protocols/msn/notification.c:879
 #, c-format
 msgid "Unknown error (%d): %s"
 msgstr ""
 
-#: ../libpurple/protocols/msn/notification.c:831
-#: ../libpurple/protocols/msn/notification.c:855
+#: ../libpurple/protocols/msn/notification.c:836
+#: ../libpurple/protocols/msn/notification.c:860
 #: ../libpurple/protocols/sametime/sametime.c:4473
 msgid "Unable to add user"
 msgstr ""
 
 #. Unknown error!
-#: ../libpurple/protocols/msn/notification.c:854
-#: ../libpurple/protocols/msn/notification.c:900
+#: ../libpurple/protocols/msn/notification.c:859
+#: ../libpurple/protocols/msn/notification.c:905
 #: ../libpurple/protocols/yahoo/libymsg.c:1997
 #, c-format
 msgid "Unknown error (%d)"
 msgstr ""
 
-#: ../libpurple/protocols/msn/notification.c:878
-#: ../libpurple/protocols/msn/notification.c:901
+#: ../libpurple/protocols/msn/notification.c:883
+#: ../libpurple/protocols/msn/notification.c:906
 msgid "Unable to remove user"
 msgstr ""
 
-#: ../libpurple/protocols/msn/notification.c:1200
+#: ../libpurple/protocols/msn/notification.c:1205
 msgid "Mobile message was not sent because it was too long."
 msgstr ""
 
-#: ../libpurple/protocols/msn/notification.c:1202
+#: ../libpurple/protocols/msn/notification.c:1207
 msgid "Mobile message was not sent because an unknown error occurred."
 msgstr ""
 
-#: ../libpurple/protocols/msn/notification.c:2204
+#: ../libpurple/protocols/msn/notification.c:2229
 #, c-format
 msgid ""
 "The MSN server will shut down for maintenance in %d minute. You will "
@@ -8174,6 +8174,27 @@ msgstr ""
 
 #: ../libpurple/protocols/msn/oim.c:419
 msgid "Message was not sent because an unknown error occurred."
+msgstr ""
+
+#: ../libpurple/protocols/msn/oim.c:671
+#, c-format
+msgid ""
+"%s (There was an error receiving this message. Converting the encoding from "
+"%s to UTF-8 failed.)"
+msgstr ""
+
+#: ../libpurple/protocols/msn/oim.c:686
+#, c-format
+msgid ""
+"%s (There was an error receiving this message. The charset was %s, but it "
+"was not valid UTF-8.)"
+msgstr ""
+
+#: ../libpurple/protocols/msn/oim.c:690
+#, c-format
+msgid ""
+"%s (There was an error receiving this message. The charset was missing, but "
+"it was not valid UTF-8.)"
 msgstr ""
 
 #: ../libpurple/protocols/msn/servconn.c:145
@@ -8459,7 +8480,7 @@ msgid "Type search information"
 msgstr ""
 
 #: ../libpurple/protocols/mxit/actions.c:482
-#: ../libpurple/protocols/oscar/oscar.c:5364
+#: ../libpurple/protocols/oscar/oscar.c:5350
 msgid "_Search"
 msgstr ""
 
@@ -9653,8 +9674,8 @@ msgstr ""
 #. 
 #: ../libpurple/protocols/oscar/authorization.c:98
 #: ../libpurple/protocols/oscar/oscar.c:1223
-#: ../libpurple/protocols/oscar/oscar.c:4967
-#: ../libpurple/protocols/oscar/oscar.c:5307 ../libpurple/request.h:1498
+#: ../libpurple/protocols/oscar/oscar.c:4953
+#: ../libpurple/protocols/oscar/oscar.c:5293 ../libpurple/request.h:1498
 msgid "_OK"
 msgstr ""
 
@@ -10000,17 +10021,17 @@ msgid "File %s is %s, which is larger than the maximum size of %s."
 msgstr ""
 
 #: ../libpurple/protocols/oscar/oscar.c:157
-#: ../libpurple/protocols/oscar/oscar.c:4802
+#: ../libpurple/protocols/oscar/oscar.c:4788
 msgid "Free For Chat"
 msgstr ""
 
 #: ../libpurple/protocols/oscar/oscar.c:161
-#: ../libpurple/protocols/oscar/oscar.c:4884
+#: ../libpurple/protocols/oscar/oscar.c:4870
 msgid "Not Available"
 msgstr ""
 
 #: ../libpurple/protocols/oscar/oscar.c:163
-#: ../libpurple/protocols/oscar/oscar.c:4870
+#: ../libpurple/protocols/oscar/oscar.c:4856
 msgid "Occupied"
 msgstr ""
 
@@ -10025,22 +10046,22 @@ msgid "Invisible"
 msgstr ""
 
 #: ../libpurple/protocols/oscar/oscar.c:171
-#: ../libpurple/protocols/oscar/oscar.c:4810
+#: ../libpurple/protocols/oscar/oscar.c:4796
 msgid "Evil"
 msgstr ""
 
 #: ../libpurple/protocols/oscar/oscar.c:173
-#: ../libpurple/protocols/oscar/oscar.c:4818
+#: ../libpurple/protocols/oscar/oscar.c:4804
 msgid "Depression"
 msgstr ""
 
 #: ../libpurple/protocols/oscar/oscar.c:175
-#: ../libpurple/protocols/oscar/oscar.c:4826
+#: ../libpurple/protocols/oscar/oscar.c:4812
 msgid "At home"
 msgstr ""
 
 #: ../libpurple/protocols/oscar/oscar.c:177
-#: ../libpurple/protocols/oscar/oscar.c:4834
+#: ../libpurple/protocols/oscar/oscar.c:4820
 msgid "At work"
 msgstr ""
 
@@ -10221,7 +10242,7 @@ msgid "Do you want to add this buddy to your buddy list?"
 msgstr ""
 
 #: ../libpurple/protocols/oscar/oscar.c:2043 ../pidgin/gtkroomlist.c:325
-#: ../pidgin/plugins/disco/gtkdisco.c:692
+#: ../pidgin/plugins/disco/gtkdisco.c:694
 msgid "_Add"
 msgstr ""
 
@@ -10508,192 +10529,192 @@ msgstr ""
 msgid "Your IM Image was not sent. You cannot send IM Images in AIM chats."
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:4796
+#: ../libpurple/protocols/oscar/oscar.c:4782
 msgid "iTunes Music Store Link"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:4843
+#: ../libpurple/protocols/oscar/oscar.c:4829
 msgid "Lunch"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:4964
+#: ../libpurple/protocols/oscar/oscar.c:4950
 #, c-format
 msgid "Buddy Comment for %s"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:4965
+#: ../libpurple/protocols/oscar/oscar.c:4951
 msgid "Buddy Comment:"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5014
+#: ../libpurple/protocols/oscar/oscar.c:5000
 #, c-format
 msgid "You have selected to open a Direct IM connection with %s."
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5018
+#: ../libpurple/protocols/oscar/oscar.c:5004
 msgid ""
 "Because this reveals your IP address, it may be considered a security risk.  "
 "Do you wish to continue?"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5024
-#: ../libpurple/protocols/oscar/peer.c:1065
+#: ../libpurple/protocols/oscar/oscar.c:5010
+#: ../libpurple/protocols/oscar/peer.c:1074
 msgid "C_onnect"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5062
+#: ../libpurple/protocols/oscar/oscar.c:5048
 msgid "You closed the connection."
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5122
+#: ../libpurple/protocols/oscar/oscar.c:5108
 msgid "Get AIM Info"
 msgstr ""
 
 #. We only do this if the user is in our buddy list
-#: ../libpurple/protocols/oscar/oscar.c:5131
+#: ../libpurple/protocols/oscar/oscar.c:5117
 msgid "Edit Buddy Comment"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5139
+#: ../libpurple/protocols/oscar/oscar.c:5125
 msgid "Get X-Status Msg"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5157
+#: ../libpurple/protocols/oscar/oscar.c:5143
 msgid "End Direct IM Session"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5163
+#: ../libpurple/protocols/oscar/oscar.c:5149
 msgid "Direct IM"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5181
+#: ../libpurple/protocols/oscar/oscar.c:5167
 msgid "Re-request Authorization"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5240
+#: ../libpurple/protocols/oscar/oscar.c:5226
 msgid "Require authorization"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5243
+#: ../libpurple/protocols/oscar/oscar.c:5229
 msgid "Web aware (enabling this will cause you to receive SPAM!)"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5248
+#: ../libpurple/protocols/oscar/oscar.c:5234
 msgid "ICQ Privacy Options"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5305
+#: ../libpurple/protocols/oscar/oscar.c:5291
 msgid "Change Address To:"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5338
+#: ../libpurple/protocols/oscar/oscar.c:5324
 msgid "you are not waiting for authorization"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5341
+#: ../libpurple/protocols/oscar/oscar.c:5327
 msgid "You are awaiting authorization from the following buddies"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5342
+#: ../libpurple/protocols/oscar/oscar.c:5328
 msgid ""
 "You can re-request authorization from these buddies by right-clicking on "
 "them and selecting \"Re-request Authorization.\""
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5359
+#: ../libpurple/protocols/oscar/oscar.c:5345
 msgid "Find Buddy by Email"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5360
+#: ../libpurple/protocols/oscar/oscar.c:5346
 msgid "Search for a buddy by email address"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5361
+#: ../libpurple/protocols/oscar/oscar.c:5347
 msgid "Type the email address of the buddy you are searching for."
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5522
+#: ../libpurple/protocols/oscar/oscar.c:5508
 msgid "Set User Info (web)..."
 msgstr ""
 
 #. This only happens when connecting with the old-style BUCP login
-#: ../libpurple/protocols/oscar/oscar.c:5534
+#: ../libpurple/protocols/oscar/oscar.c:5520
 msgid "Change Password (web)"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5541
+#: ../libpurple/protocols/oscar/oscar.c:5527
 msgid "Configure IM Forwarding (web)"
 msgstr ""
 
 #. ICQ actions
-#: ../libpurple/protocols/oscar/oscar.c:5551
+#: ../libpurple/protocols/oscar/oscar.c:5537
 msgid "Set Privacy Options..."
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5555
+#: ../libpurple/protocols/oscar/oscar.c:5541
 msgid "Show Visible List"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5558
+#: ../libpurple/protocols/oscar/oscar.c:5544
 msgid "Show Invisible List"
 msgstr ""
 
 #. AIM actions
-#: ../libpurple/protocols/oscar/oscar.c:5564
+#: ../libpurple/protocols/oscar/oscar.c:5550
 msgid "Confirm Account"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5568
+#: ../libpurple/protocols/oscar/oscar.c:5554
 msgid "Display Currently Registered Email Address"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5572
+#: ../libpurple/protocols/oscar/oscar.c:5558
 msgid "Change Currently Registered Email Address..."
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5579
+#: ../libpurple/protocols/oscar/oscar.c:5565
 msgid "Show Buddies Awaiting Authorization"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5585
+#: ../libpurple/protocols/oscar/oscar.c:5571
 msgid "Search for Buddy by Email Address..."
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5800
+#: ../libpurple/protocols/oscar/oscar.c:5786
 msgid "Use clientLogin"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5805
+#: ../libpurple/protocols/oscar/oscar.c:5791
 msgid ""
 "Always use AIM/ICQ proxy server for\n"
 "file transfers and direct IM (slower,\n"
 "but does not reveal your IP address)"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/oscar.c:5810
+#: ../libpurple/protocols/oscar/oscar.c:5796
 msgid "Allow multiple simultaneous logins"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/peer.c:706
+#: ../libpurple/protocols/oscar/peer.c:724
 #, c-format
 msgid "Asking %s to connect to us at %s:%hu for Direct IM."
 msgstr ""
 
-#: ../libpurple/protocols/oscar/peer.c:800
+#: ../libpurple/protocols/oscar/peer.c:809
 #, c-format
 msgid "Attempting to connect to %s:%hu."
 msgstr ""
 
-#: ../libpurple/protocols/oscar/peer.c:874
+#: ../libpurple/protocols/oscar/peer.c:883
 msgid "Attempting to connect via proxy server."
 msgstr ""
 
-#: ../libpurple/protocols/oscar/peer.c:1053
+#: ../libpurple/protocols/oscar/peer.c:1062
 #, c-format
 msgid "%s has just asked to directly connect to %s"
 msgstr ""
 
-#: ../libpurple/protocols/oscar/peer.c:1057
+#: ../libpurple/protocols/oscar/peer.c:1066
 msgid ""
 "This requires a direct connection between the two computers and is necessary "
 "for IM Images.  Because your IP address will be revealed, this may be "
@@ -12475,7 +12496,7 @@ msgid "Your Current Mood"
 msgstr ""
 
 #: ../libpurple/protocols/silc/silc.c:981
-#: ../libpurple/protocols/silc10/silc.c:677 ../pidgin/gtkprefs.c:2394
+#: ../libpurple/protocols/silc10/silc.c:677 ../pidgin/gtkprefs.c:2411
 #, c-format
 msgid "Normal"
 msgstr ""
@@ -12850,7 +12871,7 @@ msgid "Secure Internet Live Conferencing (SILC) Protocol"
 msgstr ""
 
 #: ../libpurple/protocols/silc/silc.c:2189
-#: ../libpurple/protocols/silc10/silc.c:1902 ../pidgin/gtkprefs.c:2786
+#: ../libpurple/protocols/silc10/silc.c:1902 ../pidgin/gtkprefs.c:2803
 msgid "Network"
 msgstr ""
 
@@ -13164,7 +13185,7 @@ msgstr ""
 msgid "Use proxy"
 msgstr ""
 
-#: ../libpurple/protocols/simple/simple.c:2177 ../pidgin/gtkprefs.c:2787
+#: ../libpurple/protocols/simple/simple.c:2177 ../pidgin/gtkprefs.c:2804
 msgid "Proxy"
 msgstr ""
 
@@ -14132,27 +14153,27 @@ msgid " (%s)"
 msgstr ""
 
 #. 10053
-#: ../libpurple/win32/libc_interface.c:320
+#: ../libpurple/win32/libc_interface.c:364
 msgid "Connection interrupted by other software on your computer."
 msgstr ""
 
 #. 10054
-#: ../libpurple/win32/libc_interface.c:323
+#: ../libpurple/win32/libc_interface.c:367
 msgid "Remote host closed connection."
 msgstr ""
 
 #. 10060
-#: ../libpurple/win32/libc_interface.c:326
+#: ../libpurple/win32/libc_interface.c:370
 msgid "Connection timed out."
 msgstr ""
 
 #. 10061
-#: ../libpurple/win32/libc_interface.c:329
+#: ../libpurple/win32/libc_interface.c:373
 msgid "Connection refused."
 msgstr ""
 
 #. 10048
-#: ../libpurple/win32/libc_interface.c:332
+#: ../libpurple/win32/libc_interface.c:376
 msgid "Address already in use."
 msgstr ""
 
@@ -14232,23 +14253,23 @@ msgstr ""
 msgid "No Proxy"
 msgstr ""
 
-#: ../pidgin/gtkaccount.c:1006 ../pidgin/gtkprefs.c:2096
+#: ../pidgin/gtkaccount.c:1006 ../pidgin/gtkprefs.c:2113
 msgid "SOCKS 4"
 msgstr ""
 
-#: ../pidgin/gtkaccount.c:1012 ../pidgin/gtkprefs.c:2097
+#: ../pidgin/gtkaccount.c:1012 ../pidgin/gtkprefs.c:2114
 msgid "SOCKS 5"
 msgstr ""
 
-#: ../pidgin/gtkaccount.c:1018 ../pidgin/gtkprefs.c:2098
+#: ../pidgin/gtkaccount.c:1018 ../pidgin/gtkprefs.c:2115
 msgid "Tor/Privacy (SOCKS5)"
 msgstr ""
 
-#: ../pidgin/gtkaccount.c:1024 ../pidgin/gtkprefs.c:2099
+#: ../pidgin/gtkaccount.c:1024 ../pidgin/gtkprefs.c:2116
 msgid "HTTP"
 msgstr ""
 
-#: ../pidgin/gtkaccount.c:1030 ../pidgin/gtkprefs.c:2100
+#: ../pidgin/gtkaccount.c:1030 ../pidgin/gtkprefs.c:2117
 msgid "Use Environmental Settings"
 msgstr ""
 
@@ -14270,7 +14291,7 @@ msgstr ""
 msgid "Proxy _type:"
 msgstr ""
 
-#: ../pidgin/gtkaccount.c:1117 ../pidgin/gtkprefs.c:2116
+#: ../pidgin/gtkaccount.c:1117 ../pidgin/gtkprefs.c:2133
 msgid "_Host:"
 msgstr ""
 
@@ -14278,7 +14299,7 @@ msgstr ""
 msgid "_Port:"
 msgstr ""
 
-#: ../pidgin/gtkaccount.c:1138 ../pidgin/gtkprefs.c:2168
+#: ../pidgin/gtkaccount.c:1138 ../pidgin/gtkprefs.c:2185
 msgid "Pa_ssword:"
 msgstr ""
 
@@ -15540,7 +15561,7 @@ msgstr ""
 msgid "Separate IM and Chat windows"
 msgstr ""
 
-#: ../pidgin/gtkconv.c:10068 ../pidgin/gtkprefs.c:2000
+#: ../pidgin/gtkconv.c:10068 ../pidgin/gtkprefs.c:2009
 msgid "New window"
 msgstr ""
 
@@ -16019,16 +16040,12 @@ msgstr ""
 msgid "Urdu"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:249
+#: ../pidgin/gtkdialogs.c:249 ../pidgin/gtkdialogs.c:322
 msgid "Vietnamese"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:249
-msgid "T.M.Thanh and the Gnome-Vi Team"
-msgstr ""
-
-#: ../pidgin/gtkdialogs.c:250 ../pidgin/gtkdialogs.c:322
-#: ../pidgin/gtkdialogs.c:323
+#: ../pidgin/gtkdialogs.c:250 ../pidgin/gtkdialogs.c:323
+#: ../pidgin/gtkdialogs.c:324
 msgid "Simplified Chinese"
 msgstr ""
 
@@ -16038,7 +16055,7 @@ msgid "Hong Kong Chinese"
 msgstr ""
 
 #: ../pidgin/gtkdialogs.c:254 ../pidgin/gtkdialogs.c:255
-#: ../pidgin/gtkdialogs.c:324
+#: ../pidgin/gtkdialogs.c:325
 msgid "Traditional Chinese"
 msgstr ""
 
@@ -16051,7 +16068,11 @@ msgstr ""
 msgid "Lithuanian"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:495
+#: ../pidgin/gtkdialogs.c:322
+msgid "T.M.Thanh and the Gnome-Vi Team"
+msgstr ""
+
+#: ../pidgin/gtkdialogs.c:496
 #, c-format
 msgid ""
 "%s is a messaging client based on libpurple which is capable of connecting "
@@ -16062,7 +16083,7 @@ msgid ""
 " There is no warranty for %s.<BR><BR>"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:505
+#: ../pidgin/gtkdialogs.c:506
 #, c-format
 msgid ""
 "<FONT SIZE=\"4\"><B>Helpful Resources</B></FONT><BR>\t<A "
@@ -16071,7 +16092,7 @@ msgid ""
 "devel@conference.pidgin.im<BR><BR>"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:512
+#: ../pidgin/gtkdialogs.c:513
 #, c-format
 msgid ""
 "<font size=\"4\"><b>Help from other Pidgin users</b></font> is available by "
@@ -16084,114 +16105,114 @@ msgid ""
 "responses may be less helpful.<br/>"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:522
+#: ../pidgin/gtkdialogs.c:523
 #, c-format
 msgid "About %s"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:544
+#: ../pidgin/gtkdialogs.c:545
 msgid "Build Information"
 msgstr ""
 
 #. End of not to be translated section
-#: ../pidgin/gtkdialogs.c:713
+#: ../pidgin/gtkdialogs.c:714
 #, c-format
 msgid "%s Build Information"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:734
+#: ../pidgin/gtkdialogs.c:735
 msgid "Current Developers"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:740
+#: ../pidgin/gtkdialogs.c:741
 msgid "Crazy Patch Writers"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:746
+#: ../pidgin/gtkdialogs.c:747
 msgid "Retired Developers"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:752
+#: ../pidgin/gtkdialogs.c:753
 msgid "Retired Crazy Patch Writers"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:755
+#: ../pidgin/gtkdialogs.c:756
 #, c-format
 msgid "%s Developer Information"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:776
+#: ../pidgin/gtkdialogs.c:777
 msgid "Current Translators"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:782
+#: ../pidgin/gtkdialogs.c:783
 msgid "Past Translators"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:785
+#: ../pidgin/gtkdialogs.c:786
 #, c-format
 msgid "%s Translator Information"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:796
+#: ../pidgin/gtkdialogs.c:797
 #, c-format
 msgid "%s Plugin Information"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:805
+#: ../pidgin/gtkdialogs.c:806
 msgid "Plugin Information"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:861 ../pidgin/gtkdialogs.c:1000
-#: ../pidgin/gtkdialogs.c:1081
+#: ../pidgin/gtkdialogs.c:862 ../pidgin/gtkdialogs.c:1001
+#: ../pidgin/gtkdialogs.c:1082
 msgid "_Name"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:866 ../pidgin/gtkdialogs.c:1005
-#: ../pidgin/gtkdialogs.c:1086
+#: ../pidgin/gtkdialogs.c:867 ../pidgin/gtkdialogs.c:1006
+#: ../pidgin/gtkdialogs.c:1087
 msgid "_Account"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1013
+#: ../pidgin/gtkdialogs.c:1014
 msgid "Get User Info"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1015
+#: ../pidgin/gtkdialogs.c:1016
 msgid ""
 "Please enter the username or alias of the person whose info you would like "
 "to view."
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1105
+#: ../pidgin/gtkdialogs.c:1106
 msgid "View User Log"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1127
+#: ../pidgin/gtkdialogs.c:1128
 msgid "Alias Contact"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1128
+#: ../pidgin/gtkdialogs.c:1129
 msgid "Enter an alias for this contact."
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1150
+#: ../pidgin/gtkdialogs.c:1151
 #, c-format
 msgid "Enter an alias for %s."
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1152
+#: ../pidgin/gtkdialogs.c:1153
 msgid "Alias Buddy"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1173
+#: ../pidgin/gtkdialogs.c:1174
 msgid "Alias Chat"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1174
+#: ../pidgin/gtkdialogs.c:1175
 msgid "Enter an alias for this chat."
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1213
+#: ../pidgin/gtkdialogs.c:1214
 #, c-format
 msgid ""
 "You are about to remove the contact containing %s and %d other buddy from "
@@ -16202,70 +16223,70 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../pidgin/gtkdialogs.c:1221
+#: ../pidgin/gtkdialogs.c:1222
 msgid "Remove Contact"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1224
+#: ../pidgin/gtkdialogs.c:1225
 msgid "_Remove Contact"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1255
+#: ../pidgin/gtkdialogs.c:1256
 #, c-format
 msgid ""
 "You are about to merge the group called %s into the group called %s. Do you "
 "want to continue?"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1262
+#: ../pidgin/gtkdialogs.c:1263
 msgid "Merge Groups"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1265
+#: ../pidgin/gtkdialogs.c:1266
 msgid "_Merge Groups"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1315
+#: ../pidgin/gtkdialogs.c:1316
 #, c-format
 msgid ""
 "You are about to remove the group %s and all its members from your buddy "
 "list.  Do you want to continue?"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1318
+#: ../pidgin/gtkdialogs.c:1319
 msgid "Remove Group"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1321
+#: ../pidgin/gtkdialogs.c:1322
 msgid "_Remove Group"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1354
+#: ../pidgin/gtkdialogs.c:1355
 #, c-format
 msgid ""
 "You are about to remove %s from your buddy list.  Do you want to continue?"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1357
+#: ../pidgin/gtkdialogs.c:1358
 msgid "Remove Buddy"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1360
+#: ../pidgin/gtkdialogs.c:1361
 msgid "_Remove Buddy"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1381
+#: ../pidgin/gtkdialogs.c:1382
 #, c-format
 msgid ""
 "You are about to remove the chat %s from your buddy list.  Do you want to "
 "continue?"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1384
+#: ../pidgin/gtkdialogs.c:1385
 msgid "Remove Chat"
 msgstr ""
 
-#: ../pidgin/gtkdialogs.c:1387
+#: ../pidgin/gtkdialogs.c:1388
 msgid "_Remove Chat"
 msgstr ""
 
@@ -17009,7 +17030,7 @@ msgid "Pounce on Whom"
 msgstr ""
 
 #: ../pidgin/gtkpounce.c:564 ../pidgin/gtkroomlist.c:548
-#: ../pidgin/plugins/disco/gtkdisco.c:651
+#: ../pidgin/plugins/disco/gtkdisco.c:653
 msgid "_Account:"
 msgstr ""
 
@@ -17085,7 +17106,7 @@ msgstr ""
 msgid "Br_owse..."
 msgstr ""
 
-#: ../pidgin/gtkpounce.c:698 ../pidgin/gtkprefs.c:2637
+#: ../pidgin/gtkpounce.c:698 ../pidgin/gtkprefs.c:2654
 msgid "Pre_view"
 msgstr ""
 
@@ -17235,7 +17256,7 @@ msgstr ""
 msgid "_Hide new IM conversations:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:1358 ../pidgin/gtkprefs.c:2733
+#: ../pidgin/gtkprefs.c:1358 ../pidgin/gtkprefs.c:2750
 msgid "When away"
 msgstr ""
 
@@ -17500,226 +17521,226 @@ msgstr ""
 msgid "Browser preferences are configured in GNOME preferences"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:1972
+#: ../pidgin/gtkprefs.c:1981
 msgid "<b>Browser configuration program was not found.</b>"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:1975
+#: ../pidgin/gtkprefs.c:1984
 msgid "Configure _Browser"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:1988
+#: ../pidgin/gtkprefs.c:1997
 msgid "_Browser:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:1996
+#: ../pidgin/gtkprefs.c:2005
 msgid "_Open link in:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:1998
+#: ../pidgin/gtkprefs.c:2007
 msgid "Browser default"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:1999
+#: ../pidgin/gtkprefs.c:2008
 msgid "Existing window"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2001
+#: ../pidgin/gtkprefs.c:2010
 msgid "New tab"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2018
+#: ../pidgin/gtkprefs.c:2027
 #, c-format
 msgid ""
 "_Manual:\n"
 "(%s for URL)"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2050
+#: ../pidgin/gtkprefs.c:2059
 msgid "Proxy Server"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2057
+#: ../pidgin/gtkprefs.c:2066
 msgid "Proxy preferences are configured in GNOME preferences"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2071
+#: ../pidgin/gtkprefs.c:2088
 msgid "<b>Proxy configuration program was not found.</b>"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2074
+#: ../pidgin/gtkprefs.c:2091
 msgid "Configure _Proxy"
 msgstr ""
 
 #. This is a global option that affects SOCKS4 usage even with
 #. * account-specific proxy settings
-#: ../pidgin/gtkprefs.c:2089
+#: ../pidgin/gtkprefs.c:2106
 msgid "Use remote _DNS with SOCKS4 proxies"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2093
+#: ../pidgin/gtkprefs.c:2110
 msgid "Proxy t_ype:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2095
+#: ../pidgin/gtkprefs.c:2112
 msgid "No proxy"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2134
+#: ../pidgin/gtkprefs.c:2151
 msgid "P_ort:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2150
+#: ../pidgin/gtkprefs.c:2167
 msgid "User_name:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2211
+#: ../pidgin/gtkprefs.c:2228
 msgid "Log _format:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2216
+#: ../pidgin/gtkprefs.c:2233
 msgid "Log all _instant messages"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2218
+#: ../pidgin/gtkprefs.c:2235
 msgid "Log all c_hats"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2220
+#: ../pidgin/gtkprefs.c:2237
 msgid "Log all _status changes to system log"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2377
+#: ../pidgin/gtkprefs.c:2394
 msgid "Sound Selection"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2388
+#: ../pidgin/gtkprefs.c:2405
 #, c-format
 msgid "Quietest"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2390
+#: ../pidgin/gtkprefs.c:2407
 #, c-format
 msgid "Quieter"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2392
+#: ../pidgin/gtkprefs.c:2409
 #, c-format
 msgid "Quiet"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2396
+#: ../pidgin/gtkprefs.c:2413
 #, c-format
 msgid "Loud"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2398
+#: ../pidgin/gtkprefs.c:2415
 #, c-format
 msgid "Louder"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2400
+#: ../pidgin/gtkprefs.c:2417
 #, c-format
 msgid "Loudest"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2492
+#: ../pidgin/gtkprefs.c:2509
 msgid "_Method:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2494
+#: ../pidgin/gtkprefs.c:2511
 msgid "Console beep"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2501
+#: ../pidgin/gtkprefs.c:2518
 msgid "No sounds"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2514
+#: ../pidgin/gtkprefs.c:2531
 #, c-format
 msgid ""
 "Sound c_ommand:\n"
 "(%s for filename)"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2522
+#: ../pidgin/gtkprefs.c:2539
 msgid "M_ute sounds"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2525
+#: ../pidgin/gtkprefs.c:2542
 msgid "Sounds when conversation has _focus"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2527
+#: ../pidgin/gtkprefs.c:2544
 msgid "_Enable sounds:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2544
+#: ../pidgin/gtkprefs.c:2561
 msgid "V_olume:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2605
+#: ../pidgin/gtkprefs.c:2622
 msgid "Play"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2633
+#: ../pidgin/gtkprefs.c:2650
 msgid "_Browse..."
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2641
+#: ../pidgin/gtkprefs.c:2658
 msgid "_Reset"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2694
+#: ../pidgin/gtkprefs.c:2711
 msgid "_Report idle time:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2699
+#: ../pidgin/gtkprefs.c:2716
 msgid "Based on keyboard or mouse use"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2706
+#: ../pidgin/gtkprefs.c:2723
 msgid "_Minutes before becoming idle:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2712
+#: ../pidgin/gtkprefs.c:2729
 msgid "Change to this status when _idle:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2730
+#: ../pidgin/gtkprefs.c:2747
 msgid "_Auto-reply:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2734
+#: ../pidgin/gtkprefs.c:2751
 msgid "When both away and idle"
 msgstr ""
 
 #. Signon status stuff
-#: ../pidgin/gtkprefs.c:2740
+#: ../pidgin/gtkprefs.c:2757
 msgid "Status at Startup"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2742
+#: ../pidgin/gtkprefs.c:2759
 msgid "Use status from last _exit at startup"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2751
+#: ../pidgin/gtkprefs.c:2768
 msgid "Status to a_pply at startup:"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2775
+#: ../pidgin/gtkprefs.c:2792
 msgid "Interface"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2781
+#: ../pidgin/gtkprefs.c:2798
 msgid "Browser"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2790
+#: ../pidgin/gtkprefs.c:2807
 msgid "Status / Idle"
 msgstr ""
 
-#: ../pidgin/gtkprefs.c:2791
+#: ../pidgin/gtkprefs.c:2808
 msgid "Themes"
 msgstr ""
 
@@ -18342,38 +18363,38 @@ msgstr ""
 msgid "Add to Buddy List"
 msgstr ""
 
-#: ../pidgin/plugins/disco/gtkdisco.c:472
+#: ../pidgin/plugins/disco/gtkdisco.c:474
 msgid "Gateway"
 msgstr ""
 
-#: ../pidgin/plugins/disco/gtkdisco.c:476
+#: ../pidgin/plugins/disco/gtkdisco.c:478
 msgid "Directory"
 msgstr ""
 
-#: ../pidgin/plugins/disco/gtkdisco.c:484
+#: ../pidgin/plugins/disco/gtkdisco.c:486
 msgid "PubSub Collection"
 msgstr ""
 
-#: ../pidgin/plugins/disco/gtkdisco.c:488
+#: ../pidgin/plugins/disco/gtkdisco.c:490
 msgid "PubSub Leaf"
 msgstr ""
 
-#: ../pidgin/plugins/disco/gtkdisco.c:492
+#: ../pidgin/plugins/disco/gtkdisco.c:494
 msgid "Other"
 msgstr ""
 
-#: ../pidgin/plugins/disco/gtkdisco.c:500
+#: ../pidgin/plugins/disco/gtkdisco.c:502
 msgid ""
 "\n"
 "<b>Description:</b> "
 msgstr ""
 
 #. Create the window.
-#: ../pidgin/plugins/disco/gtkdisco.c:635
+#: ../pidgin/plugins/disco/gtkdisco.c:637
 msgid "Service Discovery"
 msgstr ""
 
-#: ../pidgin/plugins/disco/gtkdisco.c:676
+#: ../pidgin/plugins/disco/gtkdisco.c:678
 msgid "_Browse"
 msgstr ""
 
