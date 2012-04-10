@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pidgin\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-04-05 03:57+0000\n"
+"POT-Creation-Date: 2012-04-07 21:09+0000\n"
 "PO-Revision-Date: 2010-05-23 08:23+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Sardinian <sc@li.org>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
-"X-Launchpad-Export-Date: 2012-04-05 12:02+0000\n"
+"X-Launchpad-Export-Date: 2012-04-09 12:08+0000\n"
 "X-Generator: Launchpad (build 15060)\n"
 
 #. Translators may want to transliterate the name.
@@ -8126,15 +8126,15 @@ msgstr ""
 msgid "Unable to remove user"
 msgstr ""
 
-#: ../libpurple/protocols/msn/notification.c:1205
+#: ../libpurple/protocols/msn/notification.c:1210
 msgid "Mobile message was not sent because it was too long."
 msgstr ""
 
-#: ../libpurple/protocols/msn/notification.c:1207
+#: ../libpurple/protocols/msn/notification.c:1212
 msgid "Mobile message was not sent because an unknown error occurred."
 msgstr ""
 
-#: ../libpurple/protocols/msn/notification.c:2229
+#: ../libpurple/protocols/msn/notification.c:2234
 #, c-format
 msgid ""
 "The MSN server will shut down for maintenance in %d minute. You will "
