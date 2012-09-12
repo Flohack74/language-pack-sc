@@ -1,3 +1,9 @@
+language-pack-sc (1:12.10+20120911) quantal; urgency=low
+
+  * Automatic update to latest translation data.
+
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Wed, 12 Sep 2012 10:51:37 +0000
+
 language-pack-sc (1:12.10+20120823) quantal; urgency=low
 
   * Initial release.
