@@ -1,6 +1,6 @@
-language-pack-sc (1:12.10+20121009) quantal; urgency=low
+language-pack-sc (1:13.04+20130321) raring; urgency=low
 
   * Initial release.
 
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Wed, 10 Oct 2012 18:35:31 +0000
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Fri, 22 Mar 2013 16:38:32 +0000
 
