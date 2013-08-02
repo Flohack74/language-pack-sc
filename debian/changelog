@@ -1,3 +1,9 @@
+language-pack-sc (1:13.10+20130801) saucy; urgency=low
+
+  * Automatic update to latest translation data.
+
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Fri, 02 Aug 2013 10:38:49 +0000
+
 language-pack-sc (1:13.10+20130730) saucy; urgency=low
 
   * Automatic update to latest translation data.
