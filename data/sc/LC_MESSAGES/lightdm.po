@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-08-01 11:09+0000\n"
+"X-Launchpad-Export-Date: 2013-08-06 11:27+0000\n"
 "X-Generator: Launchpad (build 16718)\n"
 
 #. Help string for command line --config flag
