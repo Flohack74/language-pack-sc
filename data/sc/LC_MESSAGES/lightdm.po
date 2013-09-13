@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lightdm\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-08-29 02:38+0000\n"
+"POT-Creation-Date: 2013-09-11 19:41+0000\n"
 "PO-Revision-Date: 2012-11-27 18:07+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Sardinian <sc@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-09-05 12:14+0000\n"
-"X-Generator: Launchpad (build 16758)\n"
+"X-Launchpad-Export-Date: 2013-09-12 12:47+0000\n"
+"X-Generator: Launchpad (build 16761)\n"
 
 #. Help string for command line --config flag
 #: ../src/lightdm.c:945
@@ -114,35 +114,35 @@ msgstr ""
 msgid "Set allow-guest to true or false"
 msgstr ""
 
-#: ../utils/lightdm-set-defaults.c:180
+#: ../utils/lightdm-set-defaults.c:170
 msgid "- set lightdm default values"
 msgstr ""
 
-#: ../utils/lightdm-set-defaults.c:183
+#: ../utils/lightdm-set-defaults.c:173
 #, c-format
 msgid "option parsing failed: %s\n"
 msgstr ""
 
-#: ../utils/lightdm-set-defaults.c:189
+#: ../utils/lightdm-set-defaults.c:179
 #, c-format
 msgid ""
 "Wrong usage of the command\n"
 "%s"
 msgstr ""
 
-#: ../utils/lightdm-set-defaults.c:225
+#: ../utils/lightdm-set-defaults.c:215
 msgid "true and false are the only valid choices for hide-users\n"
 msgstr ""
 
-#: ../utils/lightdm-set-defaults.c:234
+#: ../utils/lightdm-set-defaults.c:224
 msgid "true and false are the only valid choices for allow-guest\n"
 msgstr ""
 
-#: ../utils/lightdm-set-defaults.c:243
+#: ../utils/lightdm-set-defaults.c:233
 msgid "true and false are the only valid choices for show-manual-login\n"
 msgstr ""
 
-#: ../utils/lightdm-set-defaults.c:252
+#: ../utils/lightdm-set-defaults.c:242
 msgid "true and false are the only valid choices for show-remote-login\n"
 msgstr ""
 
