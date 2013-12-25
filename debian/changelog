@@ -1,3 +1,9 @@
+language-pack-sc (1:14.04+20131224) trusty; urgency=low
+
+  * Automatic update to latest translation data.
+
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Wed, 25 Dec 2013 11:13:13 +0000
+
 language-pack-sc (1:14.04+20131212) trusty; urgency=low
 
   * Initial release.
