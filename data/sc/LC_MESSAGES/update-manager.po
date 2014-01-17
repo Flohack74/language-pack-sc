@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: update-manager\n"
 "Report-Msgid-Bugs-To: sebastian.heinlein@web.de\n"
-"POT-Creation-Date: 2014-01-10 11:32+0000\n"
+"POT-Creation-Date: 2014-01-16 00:31+0000\n"
 "PO-Revision-Date: 2010-09-06 03:55+0000\n"
 "Last-Translator: Borealis <Unknown>\n"
 "Language-Team: Sardinian <sc@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n!=1;\n"
-"X-Launchpad-Export-Date: 2014-01-14 12:13+0000\n"
-"X-Generator: Launchpad (build 16890)\n"
+"X-Launchpad-Export-Date: 2014-01-16 12:12+0000\n"
+"X-Generator: Launchpad (build 16901)\n"
 "Language: sc\n"
 
 #: ../UpdateManager/backend/InstallBackendAptdaemon.py:67
@@ -116,8 +116,12 @@ msgstr ""
 msgid "The computer needs to restart to finish installing updates."
 msgstr ""
 
-#: ../UpdateManager/Dialogs.py:280
-msgid "_Restart"
+#: ../UpdateManager/Dialogs.py:281
+msgid "Restart _Later"
+msgstr ""
+
+#: ../UpdateManager/Dialogs.py:282
+msgid "_Restart Now…"
 msgstr ""
 
 #. Basic GTK+ parameters
@@ -170,84 +174,89 @@ msgid ""
 "following error message:\n"
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:249
+#: ../UpdateManager/UpdatesAvailable.py:251
 msgid "Install Now"
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:282
+#: ../UpdateManager/UpdatesAvailable.py:284
 #: ../UpdateManagerText/UpdateManagerText.py:36
 msgid "Install"
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:316
+#: ../UpdateManager/UpdatesAvailable.py:318
 msgid "Download"
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:375
+#: ../UpdateManager/UpdatesAvailable.py:377
 msgid "_Remind Me Later"
 msgstr ""
 
 #. upload_archive = version_match.group(2).strip()
-#: ../UpdateManager/UpdatesAvailable.py:512
+#: ../UpdateManager/UpdatesAvailable.py:514
 #, python-format
 msgid "Version %s: \n"
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:575
+#: ../UpdateManager/UpdatesAvailable.py:577
 msgid ""
 "No network connection detected, you can not download changelog information."
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:585
+#: ../UpdateManager/UpdatesAvailable.py:587
 msgid "Downloading list of changes..."
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:629
+#: ../UpdateManager/UpdatesAvailable.py:631
 msgid "_Deselect All"
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:635
+#: ../UpdateManager/UpdatesAvailable.py:637
 msgid "Select _All"
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:730
+#: ../UpdateManager/UpdatesAvailable.py:732
 #, python-format
 msgid "%s will be downloaded."
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:744
+#: ../UpdateManager/UpdatesAvailable.py:746
 msgid "The update has already been downloaded."
 msgid_plural "The updates have already been downloaded."
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../UpdateManager/UpdatesAvailable.py:750
+#: ../UpdateManager/UpdatesAvailable.py:752
 msgid "There are no updates to install."
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:759
+#: ../UpdateManager/UpdatesAvailable.py:761
 msgid "Unknown download size."
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:786
+#: ../UpdateManager/UpdatesAvailable.py:788
 #, python-format
 msgid ""
 "Updated software has been issued since %s %s was released. Do you want to "
 "install it now?"
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:791
+#: ../UpdateManager/UpdatesAvailable.py:793
 msgid ""
 "Updated software is available for this computer. Do you want to install it "
 "now?"
 msgstr ""
 
+#: ../UpdateManager/UpdatesAvailable.py:796
+msgid ""
+"The computer also needs to restart to finish installing previous updates."
+msgstr ""
+
 #. print("on_button_install_clicked")
-#: ../UpdateManager/UpdatesAvailable.py:821
+#: ../UpdateManager/UpdatesAvailable.py:826
 msgid "Not enough free disk space"
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:822
+#: ../UpdateManager/UpdatesAvailable.py:827
 #, python-format
 msgid ""
 "The upgrade needs a total of %s free space on disk '%s'. Please free at "
@@ -255,19 +264,19 @@ msgid ""
 "temporary packages of former installations using 'sudo apt-get clean'."
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:848
+#: ../UpdateManager/UpdatesAvailable.py:853
 msgid "Connecting..."
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:864
+#: ../UpdateManager/UpdatesAvailable.py:869
 msgid "You may not be able to check for updates or download new updates."
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:1013
+#: ../UpdateManager/UpdatesAvailable.py:1018
 msgid "Security updates"
 msgstr ""
 
-#: ../UpdateManager/UpdatesAvailable.py:1016
+#: ../UpdateManager/UpdatesAvailable.py:1021
 msgid "Other updates"
 msgstr ""
 
