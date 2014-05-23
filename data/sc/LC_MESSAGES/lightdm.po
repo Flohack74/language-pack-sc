@@ -1,0 +1,96 @@
+# Sardinian translation for lightdm
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the lightdm package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lightdm\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-04-29 20:15+0000\n"
+"PO-Revision-Date: 2012-11-27 18:07+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Sardinian <sc@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-05-22 12:20+0000\n"
+"X-Generator: Launchpad (build 17017)\n"
+
+#: ../debian/guest-session-auto.sh:22
+msgid "Temporary Guest Session"
+msgstr ""
+
+#: ../debian/guest-session-auto.sh:23
+msgid ""
+"All data created during this guest session will be deleted\n"
+"when you log out, and settings will be reset to defaults.\n"
+"Please save files on some external device, for instance a\n"
+"USB stick, if you would like to access them again later."
+msgstr ""
+
+#: ../debian/guest-session-auto.sh:27
+msgid ""
+"Another alternative is to save files in the\n"
+"/var/guest-data folder."
+msgstr ""
+
+#. Help string for command line --config flag
+#: ../src/lightdm.c:928
+msgid "Use configuration file"
+msgstr "Imprea file de configuratzione"
+
+#. Help string for command line --debug flag
+#: ../src/lightdm.c:931
+msgid "Print debugging messages"
+msgstr "Imprenta is messàgios de debug"
+
+#. Help string for command line --test-mode flag
+#: ../src/lightdm.c:934
+msgid "Run as unprivileged user, skipping things that require root access"
+msgstr ""
+"In esecutzione comente impitadore sena privilègios, sarto is cosas chi "
+"tenent bisòngiu de s'atzessu de root"
+
+#. Help string for command line --pid-file flag
+#: ../src/lightdm.c:937
+msgid "File to write PID into"
+msgstr "File pro iscrìere su PID a intro"
+
+#. Help string for command line --log-dir flag
+#: ../src/lightdm.c:940
+msgid "Directory to write logs to"
+msgstr ""
+
+#. Help string for command line --run-dir flag
+#: ../src/lightdm.c:943
+msgid "Directory to store running state"
+msgstr ""
+
+#. Help string for command line --cache-dir flag
+#: ../src/lightdm.c:946
+msgid "Directory to cache information"
+msgstr ""
+
+#. Help string for command line --version flag
+#: ../src/lightdm.c:949
+msgid "Show release version"
+msgstr ""
+
+#. Arguments and description for --help test
+#: ../src/lightdm.c:968
+msgid "- Display Manager"
+msgstr ""
+
+#. Text printed out when an unknown command-line argument provided
+#: ../src/lightdm.c:978
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr ""
+
+#. Text printed out when an unknown command-line argument provided
+#: ../src/dm-tool.c:29
+#, c-format
+msgid ""
+"Run 'dm-tool --help' to see a full list of available command line options."
+msgstr ""
