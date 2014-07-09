@@ -1,48 +1,6 @@
-language-pack-sc (1:14.04+20140522) trusty-proposed; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Fri, 23 May 2014 10:49:31 +0000
-
-language-pack-sc (1:14.04+20140520) trusty-proposed; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Wed, 21 May 2014 10:49:51 +0000
-
-language-pack-sc (1:14.04+20140515) trusty-proposed; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Fri, 16 May 2014 10:47:58 +0000
-
-language-pack-sc (1:14.04+20140513) trusty-proposed; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Wed, 14 May 2014 10:49:10 +0000
-
-language-pack-sc (1:14.04+20140508) trusty-proposed; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Fri, 09 May 2014 10:45:49 +0000
-
-language-pack-sc (1:14.04+20140501) trusty-proposed; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Fri, 02 May 2014 10:46:16 +0000
-
-language-pack-sc (1:14.04+20140422) trusty-proposed; urgency=low
-
-  * Automatic update to latest translation data.
-
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Wed, 23 Apr 2014 10:43:14 +0000
-
-language-pack-sc (1:14.04+20140410) trusty; urgency=low
+language-pack-sc (1:14.04+20140707) trusty-proposed; urgency=low
 
   * Initial release.
 
- -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Thu, 10 Apr 2014 18:36:50 +0000
+ -- Ubuntu automatic language-pack builder <language-packs@ubuntu.com>  Wed, 09 Jul 2014 09:30:12 +0000
 
